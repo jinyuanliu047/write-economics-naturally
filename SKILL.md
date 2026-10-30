@@ -1,47 +1,63 @@
 ---
 name: write-economics-naturally
-description: Draft and revise English economics manuscripts, theses, and substantive research narratives with motivated, fluent prose. Use for abstracts, literature contributions, data, empirical design, results, mechanisms, robustness, conclusions, and exhibit notes. Preserve the research and the user's voice; this is a writing workflow, not a journal template or a license to change specifications.
+description: Write and revise English economics papers with clear motivation, natural flow, precise empirical interpretation, and a consistent author voice. Covers abstracts through appendices and exhibit notes; includes a source-based learning programme drawn from 150 articles. Preserve the research, follow the author's choices, and use the complete portable workflow rather than a journal template.
 ---
 
-# Write economics naturally
+# Write Economics Naturally
 
-Write for an economist who has not seen the conversation. The reader should understand why the question matters, what is compared, what the evidence says, and why the next sentence follows. Learn from published economics without copying an author's distinctive language or treating a journal as having one mandatory voice.
+Help an economist understand the question, the comparison, the evidence, and why each sentence follows the previous one. Apply the same standard to the abstract, introduction, data, design, results, mechanisms, robustness, conclusion, appendix, and exhibit notes. These instructions are self-contained and apply across papers, topics, datasets, and AI tools.
 
-## Establish the argument before polishing
+## 1. Learn the craft and understand the paper
 
-Read the current source and the evidence it describes. Follow the user's latest research choices, terminology, and writing preferences. Treat criticized assistant prose as a problem to fix, not as a positive sample of the user's voice. User-authored examples, when available and relevant, take priority over a generic journal register.
+For a new assistant's first study, read [the learning guide](references/first-use-study.md) and work through the [150-article source map](references/reading-ledger.json). Open the actual articles; a bibliography, inherited completion flag, abstract alone, or another assistant's summary does not establish that you read them. Save your own source locations and concrete observations, resume unfinished batches, and report the actual scope. A user can request an immediate edit while the longer study continues; do not claim that the study is complete before it is.
 
-Identify the paragraph's job and what the reader needs from the preceding paragraph. A useful sentence introduces a necessary fact, explains a comparison, supplies evidence, interprets it, or motivates the next question. Cut sentences that only announce that analysis will occur or repeat a conclusion without advancing it. Do not add facts, mechanisms, anecdotes, benchmarks, or citations merely to improve the story.
+For the paper being edited, first read its current sources, exhibits, research choices, terminology, and relevant user-authored examples. Establish the question, contribution, identifying comparison, core outcomes, main magnitudes, and evidence that materially changes interpretation. Ask only for missing information that matters. Treat criticized assistant prose as a problem to fix, not as the author's desired voice.
 
-## Compose the explanation
+Learn the clarity, economic motivation, and narrative patience of good published economics, including work by David Y. Yang, Nancy Qian, Justin Yifu Lin, and Claudia Goldin. Adapt the craft to the current argument; do not copy distinctive wording, borrow another paper's conclusions, or imitate one author's surface mannerisms.
 
-- Name people, institutions, actions, places, and dates before compressing them into technical labels. Explain who differs from whom and when before naming DID, IV, a gradient, or a margin.
-- Carry familiar information into the next sentence, then add the new point. Repeat a stable noun when a pronoun would have several referents. Avoid changing synonyms for the same variable to create variety.
-- Choose ordinary, precise verbs and idiomatic combinations. Prefer a child attending school, a county opening a school, or a record naming a birthplace to an unexplained chain of abstract nouns.
-- Let sentence length follow the thought. A longer explanatory sentence can prepare a short implication. Do not manufacture fluency by splitting everything into short declarations or starting every sentence with “We.” Sentences beginning with “The” are allowed.
-- Connect paragraphs through an unresolved substantive question. A transition word alone does not establish the connection.
-- Give historical details a purpose: explaining behavior, measurement, timing, identification, or interpretation. A narrative can unfold patiently without becoming an inventory of events or a fictional scene.
+## 2. Use the author's portable defaults
 
-For diction, reference, and rhythm, read [prose-craft.md](references/prose-craft.md). For actual revisions, read [editing-examples.md](references/editing-examples.md).
+Unless the user explicitly requests a different style, apply all of these defaults throughout new prose:
 
-## Apply the standard throughout the paper
+- Do not use em dashes, including paired interruptions. In LaTeX prose, do not introduce `---` or `\textemdash`. Use a full stop or recast the sentence. Preserve mathematical minus signs, numerical ranges, exact source titles, and faithful quotations when needed.
+- Use familiar words, precise verbs, and idiomatic economic language. Avoid inflated vocabulary such as “delve,” “pivotal,” “tapestry,” “testament,” “underscore,” and “it is worth noting.” Do not trade a stable technical term for an unfamiliar synonym merely to sound varied.
+- Prefer short declarative sentences with one main idea. Let a necessary explanatory sentence be longer when it improves flow. Avoid long noun chains, stacked subordinate clauses, double-comma appositives, and repeated comma interruptions.
+- Use active subjects. “We use” suits an author choice; people, institutions, outcomes, and estimates can carry the next sentence. Avoid consecutive mechanical “We” openings and forced passive substitutes. Sentences beginning with “The” are allowed when natural.
+- Make each sentence motivated. Carry known information into the next sentence and add one useful point. Explain why a fact, method, control, or subsequent test matters before listing its mechanics. Remove repetition and filing announcements that do not advance the argument.
+- Lead with the question or finding and then explain it. Use warranted significance and quantitative language. Avoid both blanket certainty and a ritual disclaimer after every result. Preserve specific qualifications and contrary evidence that change interpretation.
 
-An abstract needs a question with wider relevance, an intelligible comparison, the principal finding, and its contribution. It usually does not need the complete sample ledger, formula, FE list, coefficient list, and robustness catalogue.
+These defaults travel with the skill and do not depend on a particular project's `AGENTS.md`. Explicit user instructions take precedence. Preserve the current paper's voice and terminology rather than imposing the same opening, paragraph skeleton, or vocabulary on every project.
 
-In empirical sections, explain the economic reason for a choice before its mechanics. A results paragraph should make a comparison meaningful, not translate table rows one by one. Give the outcome, scale, comparison, and a warranted interpretation. Use a benchmark only if verified in the appropriate sample. Do not compare coefficient sizes across incompatible units.
+## 3. Build an argument at each scale
 
-Explain the evidence before qualifying it. Lead with the finding and its economic interpretation, then state the specific condition or limitation that changes what it means. Distinguish a wide interval from a precise small estimate, and sampling changes from the addition of controls. Avoid a repetitive closing disclaimer after every result, but do not remove material contrary evidence or upgrade association into causation. A mechanism proxy is not the mechanism itself.
+Before revising a paragraph, identify its job and what the reader already knows. A sentence should supply a necessary fact, explain a comparison, present evidence, interpret it, or motivate the next question. The connection must be substantive; adding “moreover” does not fix a missing connection.
 
-Read [empirical-sections.md](references/empirical-sections.md) for design, results, mechanisms, robustness, and notes. Apply the same care to appendices and captions. Journal writing practices do not override the user's established formatting.
+Name the people, institution, event, place, and period before compressing them into technical labels. Explain who differs from whom and when before referring to DID, IV, a gradient, or a margin. Historical context earns its place by explaining behavior, measurement, timing, identification, or interpretation. Let the account unfold patiently without inventing scenes, anecdotes, facts, mechanisms, or citations.
 
-## Verify the revision
+Read [prose-craft.md](references/prose-craft.md) for diction, reference, and rhythm, and [editing-examples.md](references/editing-examples.md) for concrete decisions. The examples are synthetic illustrations, not sentences to reuse mechanically.
 
-Compare the revised text with the current tables, figures, code, and bibliography. Preserve sample definitions, missing-value rules, treatments, outcomes, estimators, FE, clustering, numeric results, LaTeX labels, and citation keys unless separately authorized to change them. A prose request does not authorize a new model.
+## 4. Carry the standard through every section
 
-Read the passage aloud internally. Check that a reader can follow each comparison without unpacking shorthand, that each sentence earns its place, and that adjacent paragraphs form an argument. Read consecutive sentence and paragraph openings: use “We” for author choices, and let the people, institution, comparison, outcome, or estimate carry the explanation where appropriate. Revise repetitive openings without a quota, a ban on “We,” or a mechanical switch to passive voice. Search for repeated claims, vague referents, unnatural noun chains, empty intensifiers, and causal verbs unsupported by the design. Preserve informative qualifiers instead of substituting either blanket certainty or blanket hedging.
+**Abstract.** Begin with a question or problem of wider economic relevance, then connect it naturally to the setting and evidence. Give an intelligible comparison, the principal finding, the contribution, and a few informative numbers when supported. Preserve the declared core outcome set and useful data scale. Omit the full transformation formula, FE list, coefficient catalogue, and robustness inventory unless essential to the point. Do not introduce a vague global claim merely to sound broad.
 
-When editing LaTeX, compile the existing project and inspect the affected output. Distinguish a saved draft from a verified deliverable. If reporting a reading study, count only sources and sections actually inspected, label working-paper versions and lecture genres, and retain source/page locators. The reading ledger supports these practices; it is not a requirement to read the corpus again for every edit.
+**Introduction and contribution.** Explain the economic problem, why this setting helps answer it, what the study adds, and how the evidence bears on the question. Distinguish what existing literature establishes from the precise additional question answered here. Develop the relevant literature streams rather than listing citations or renaming contributions. Summarize results substantively; put detailed table interpretation and appendix references where readers need the supporting evidence.
 
-## Reading evidence
+**Background and data.** Give context before labels. Define the central concept, its proxy, the population, source coverage, timing, geographic level, denominator, and missing-value treatment as needed for interpretation. Keep a concept distinct from its administrative record or survey proxy. Separate events from later remembrance, exposure from outcomes, and measured attitudes from behavior when those distinctions matter to the paper.
 
-The [reading ledger](references/reading-ledger.json) records the five-journal study, with 30 selected articles per journal, exact source versions and section locators. Use it when checking a specific writing example or source attribution; do not load all 150 records for a routine paragraph edit. Goldin’s book excerpt is an additional narrative reference, not one of the 150 journal articles.
+**Design.** Explain the economic comparison and source of variation before the regression notation. State the actual comparison groups and relevant timing in ordinary language. Motivate each important control or alternative specification by the competing explanation it addresses. Preserve the sample, estimator, transformation, FE, weights, and clustering. First-stage strength establishes relevance; give exclusion assumptions with the substantive IV interpretation.
+
+**Results and robustness.** Give the finding, its units, comparison, magnitude, and implication. Refer to an exhibit as part of the argument: “Table 4 shows ...” or “Panel B of Table 4 ...”. Identify the parent table when introducing or switching panels. Use a verified benchmark only on the correct sample and scale. Compare controlled and baseline estimates on identical observations before attributing a change to the control. Distinguish a precise small estimate, an imprecise estimate, and a materially unstable result. Keep an economic explanation constructive while distinguishing demonstrated evidence from possible mechanisms.
+
+**Mechanisms and further analysis.** Organize evidence around meaningful channels and explain why each measure informs the proposed channel. A proxy, a reported belief, an observed action, and a causal mediator are different objects. Interpret survey questions according to their actual wording. State the sample and geographic match where they change the comparison. Keep later outcomes and intergenerational comparisons connected to the paper's question without silently treating them as the original identification design.
+
+**Conclusion, appendix, and notes.** Return to the economic question and warranted contribution. Keep needed definitions and source attribution available without repeating the whole methods section. Notes should define the dependent variable and unit, exposure, comparison or sample, essential specification, inference, and any feature needed to read the exhibit. Preserve the author's established formatting; learning from AER does not require its document class or template. With no established table style, use clear outcome headings above estimates, sequential column numbers, readable rules, and consistent notes.
+
+Read [empirical-sections.md](references/empirical-sections.md) for detailed empirical interpretation. Do not change research choices to improve the story or significance.
+
+## 5. Review meaning, flow, and delivery together
+
+Compare every substantive claim with the current exhibits, code, and sources. Preserve values, uncertainty, sample definitions, missing-value rules, estimators, outcomes, exposure measures, LaTeX commands, citation keys, labels, and references unless their modification is separately authorized. Do not invent a benchmark, IQR interpretation, causal channel, or statistical claim.
+
+Read adjacent paragraphs together and read the passage aloud internally. Check that each sentence earns its place, references have clear antecedents, comparisons are intelligible, terms remain stable, and the next paragraph has a reason to follow. Check repeated openings, repeated conclusions, awkward noun chains, unsupported causal verbs, and em dashes in all newly written prose. Revise the argument before merely swapping words.
+
+For LaTeX, edit the intended existing sources, compile the project, and inspect affected output. Distinguish a saved draft, a successful build, and verified scientific interpretation. Return a complete usable revision with a short account of material changes and remaining questions. Reuse the learned craft across projects while rebuilding the factual argument from the current paper's evidence.

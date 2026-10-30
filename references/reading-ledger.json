@@ -8,7 +8,7 @@
     "ReStud": 30
   },
   "total": 150,
-  "scope": "Abstract where present; full introduction; selected substantive results or corresponding theoretical argument; full conclusion. Not a claim to have read all 150 articles and appendices in full. Publication, proof, and author versions are explicitly distinguished.",
+  "scope": "Source map for a fresh 150-article study. Reference versions and locations reflect the original selected-section study, not a new assistant's completion. New readers follow first-use-study.md and maintain their own records.",
   "articles": [
     {
       "journal_group": "AER",
@@ -19,11 +19,9 @@
       "doi": "10.1257/aer.91.4.795",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.91.4.795",
       "text_url": "https://haushofer.ne.su.se/ec2303/lecture%208%20-%20education/Non-required%20papers/Duflo_2001.pdf",
-      "version_read": "Published AER copy; original article PDF 1–19, followed by citation material",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction 795–796; results 799–800; conclusion 810–812",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy; original article PDF 1–19, followed by citation material",
+      "reading_locations": "Abstract and full introduction 795–796; results 799–800; conclusion 810–812"
     },
     {
       "journal_group": "AER",
@@ -34,11 +32,9 @@
       "doi": "10.1257/aer.101.7.3221",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3221",
       "text_url": "https://hceconomics.uchicago.edu/sites/default/files/pdf/events/Nunn_Wantchekon_2011_AER_v101_slave-trade-mistrust.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction 3221–3224; estimating setup 3231; mechanism synthesis and conclusion 3249–3250",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction 3221–3224; estimating setup 3231; mechanism synthesis and conclusion 3249–3250"
     },
     {
       "journal_group": "AER",
@@ -49,11 +45,9 @@
       "doi": "10.1257/aer.104.6.1630",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.104.6.1630",
       "text_url": "https://www.kellogg.northwestern.edu/faculty/qian/resources/aer_2012-0109_manuscript.pdf",
-      "version_read": "October 1, 2013 author manuscript",
       "genre": "Research article",
-      "sections_read": "Abstract PDF1; entire introduction PDF2–6/printed1–5; results PDF25–26/printed24–25; conclusion PDF29–30/printed28–29",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "October 1, 2013 author manuscript",
+      "reading_locations": "Abstract PDF1; entire introduction PDF2–6/printed1–5; results PDF25–26/printed24–25; conclusion PDF29–30/printed28–29"
     },
     {
       "journal_group": "AER",
@@ -64,11 +58,9 @@
       "doi": "10.1257/aer.20130604",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20130604",
       "text_url": "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/tsetse.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and entire introduction 382–385; results 396; modern results and conclusion 406",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and entire introduction 382–385; results 396; modern results and conclusion 406"
     },
     {
       "journal_group": "AER",
@@ -79,11 +71,9 @@
       "doi": "10.1257/aer.20180174",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180174",
       "text_url": "https://realestate.wharton.upenn.edu/wp-content/uploads/2019/04/NationBuild_Manuscript-815-.pdf",
-      "version_read": "March 2019 author manuscript",
       "genre": "Research article",
-      "sections_read": "Abstract PDF1; full introduction PDF2–5/printed1–4; results PDF18/printed17; final discussion PDF30–31/printed29–30",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "March 2019 author manuscript",
+      "reading_locations": "Abstract PDF1; full introduction PDF2–5/printed1–4; results PDF18/printed17; final discussion PDF30–31/printed29–30"
     },
     {
       "journal_group": "AER",
@@ -94,11 +84,9 @@
       "doi": "10.1257/aer.20171765",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20171765",
       "text_url": "https://censorbib.nymity.ch/pdf/Chen2019a.pdf",
-      "version_read": "Published AER copy; author URL verified, accessible copy from academic censorship bibliography",
       "genre": "Research article",
-      "sections_read": "Abstract 2294; full introduction 2295–2298; results 2313–2314; conclusion 2329–2331",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy; author URL verified, accessible copy from academic censorship bibliography",
+      "reading_locations": "Abstract 2294; full introduction 2295–2298; results 2313–2314; conclusion 2329–2331"
     },
     {
       "journal_group": "AER",
@@ -109,11 +97,9 @@
       "doi": "10.1257/aer.20191414",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20191414",
       "text_url": "https://www.econstor.eu/bitstream/10419/183616/1/GLO-DP-0272.pdf",
-      "version_read": "October 2018 GLO Discussion Paper 272; earlier version, not final AER wording",
       "genre": "Research article",
-      "sections_read": "Abstract PDF2; entire introduction PDF3–8/printed2–7; results PDF18/printed17; conclusion PDF32–33/printed31–32",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "October 2018 GLO Discussion Paper 272; earlier version, not final AER wording",
+      "reading_locations": "Abstract PDF2; entire introduction PDF3–8/printed2–7; results PDF18/printed17; conclusion PDF32–33/printed31–32"
     },
     {
       "journal_group": "AER",
@@ -124,11 +110,9 @@
       "doi": "10.1257/aer.91.5.1369",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf",
-      "version_read": "Published AER/JSTOR copy with repository cover; PDF2 = printed1369",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction 1369–1373/PDF2–6; results 1384–1385/PDF17–18; conclusion1395–1396/PDF28–29",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER/JSTOR copy with repository cover; PDF2 = printed1369",
+      "reading_locations": "Abstract and full introduction 1369–1373/PDF2–6; results 1384–1385/PDF17–18; conclusion1395–1396/PDF28–29"
     },
     {
       "journal_group": "AER",
@@ -139,11 +123,9 @@
       "doi": "10.1257/aer.98.3.808",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.98.3.808",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/income%20and%20democracy.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction808–813; results817; conclusion836–837",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction808–813; results817; conclusion836–837"
     },
     {
       "journal_group": "AER",
@@ -154,11 +136,9 @@
       "doi": "10.1257/aer.101.7.3286",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3286",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/The%20Consequences%20of%20Radical%20Reform%20-%20The%20French%20Re_0.pdf",
-      "version_read": "Published AER copy; abstract read on official article page",
       "genre": "Research article",
-      "sections_read": "Official abstract; full introduction3286–3288; results3296–3297; complete conclusion3303–3305",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy; abstract read on official article page",
+      "reading_locations": "Official abstract; full introduction3286–3288; results3296–3297; complete conclusion3303–3305"
     },
     {
       "journal_group": "AER",
@@ -169,11 +149,9 @@
       "doi": "10.1257/aer.20140044",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20140044",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/State%20Capacity%20and%20Economic%20Development%20-%20A%20Networ.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction2364–2368; results2388; conclusion2404–2405",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction2364–2368; results2388; conclusion2404–2405"
     },
     {
       "journal_group": "AER",
@@ -184,11 +162,9 @@
       "doi": "10.1257/aer.20101199",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20101199",
       "text_url": "https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction899–903; placebo925; mechanism931; conclusion931–932",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction899–903; placebo925; mechanism931; conclusion931–932"
     },
     {
       "journal_group": "AER",
@@ -199,11 +175,9 @@
       "doi": "10.1257/aer.102.4.1477",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.4.1477",
       "text_url": "https://www.nber.org/system/files/working_papers/w15605/w15605.pdf",
-      "version_read": "December 2009 NBER Working Paper15605; earlier version only",
       "genre": "Research article",
-      "sections_read": "AbstractPDF2; full introductionPDF3–5/printed1–3; substantive adjustment discussion and conclusionPDF25/printed23",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "December 2009 NBER Working Paper15605; earlier version only",
+      "reading_locations": "AbstractPDF2; full introductionPDF3–5/printed1–3; substantive adjustment discussion and conclusionPDF25/printed23"
     },
     {
       "journal_group": "AER",
@@ -214,11 +188,9 @@
       "doi": "10.1257/aer.102.5.1832",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1832",
       "text_url": "https://ranabr.people.stanford.edu/sites/g/files/sbiybj26066/files/media/file/abe_ageofmassmigration.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1832–1835; results1846; conclusion1850",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction1832–1835; results1846; conclusion1850"
     },
     {
       "journal_group": "AER",
@@ -229,11 +201,9 @@
       "doi": "10.1257/aer.20191586",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20191586",
       "text_url": "https://ranabr.people.stanford.edu/sites/g/files/sbiybj26066/files/media/file/mobility_draft_august_1_2020.pdf",
-      "version_read": "August1,2020 author manuscript",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction/literature1–5; results13; conclusion18–19 (manuscript pages)",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "August1,2020 author manuscript",
+      "reading_locations": "Abstract and full introduction/literature1–5; results13; conclusion18–19 (manuscript pages)"
     },
     {
       "journal_group": "AER",
@@ -244,11 +214,9 @@
       "doi": "10.1257/aer.104.4.1091",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1091",
       "text_url": "https://paulgp.com/speeches/goldin_2014_aea.pdf",
-      "version_read": "Published AER Presidential Address; original29pages followed by citation material",
       "genre": "Presidential Address",
-      "sections_read": "Abstract and entire opening SectionI1091–1093; pharmacy1115–1116; full final SectionVI1116–1118",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER Presidential Address; original29pages followed by citation material",
+      "reading_locations": "Abstract and entire opening SectionI1091–1093; pharmacy1115–1116; full final SectionVI1116–1118"
     },
     {
       "journal_group": "AER",
@@ -259,11 +227,9 @@
       "doi": "10.2307/2117602",
       "publication_url": "https://www.jstor.org/stable/2117602",
       "text_url": "https://www3.nccu.edu.tw/~jthuang/Justin%20Yifu%20Lin%20%281992%29.pdf",
-      "version_read": "Published AER scan with one-page cover; Apple Vision OCR read in column order",
       "genre": "Research article",
-      "sections_read": "No standalone abstract in source; complete introduction34–36; methods42; results43–44; growth46–47; complete conclusion47–48; reader root",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER scan with one-page cover; Apple Vision OCR read in column order",
+      "reading_locations": "No standalone abstract in source; complete introduction34–36; methods42; results43–44; growth46–47; complete conclusion47–48; reader root"
     },
     {
       "journal_group": "AER",
@@ -274,11 +240,9 @@
       "doi": "10.1257/aer.114.6.1515",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.114.6.1515",
       "text_url": "https://goldin.scholars.harvard.edu/sites/g/files/omnuum5966/files/goldin_nobel.pdf",
-      "version_read": "Published AER Nobel Lecture; web PDF readable, local direct download403",
       "genre": "Nobel Lecture",
-      "sections_read": "No formal abstract; complete opening1515–1516; measurement1517–1522; Quiet Revolution1523–1525; job choices1533–1536; complete conclusion1536–1537; reader root",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER Nobel Lecture; web PDF readable, local direct download403",
+      "reading_locations": "No formal abstract; complete opening1515–1516; measurement1517–1522; Quiet Revolution1523–1525; job choices1533–1536; complete conclusion1536–1537; reader root"
     },
     {
       "journal_group": "AER",
@@ -289,11 +253,9 @@
       "doi": "10.1257/aer.103.6.2227",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2227",
       "text_url": "https://econ-papers.upf.edu/papers/1264.pdf",
-      "version_read": "December2012 author manuscript; local accepted filename is not a claim about final pagination",
       "genre": "Research article",
-      "sections_read": "Abstract1; full introduction2–6; results28; conclusion28–29 (manuscript pages)",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "December2012 author manuscript; local accepted filename is not a claim about final pagination",
+      "reading_locations": "Abstract1; full introduction2–6; results28; conclusion28–29 (manuscript pages)"
     },
     {
       "journal_group": "AER",
@@ -304,11 +266,9 @@
       "doi": "10.1257/aer.20121637",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20121637",
       "text_url": "https://www.damianclarke.net/teaching/Econometria-Aplicada/Dell2015.pdf",
-      "version_read": "Published AER copy; supersedes acquired2011JMP",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1738–1744; results1756; conclusion1776",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy; supersedes acquired2011JMP",
+      "reading_locations": "Abstract and full introduction1738–1744; results1756; conclusion1776"
     },
     {
       "journal_group": "AER",
@@ -319,11 +279,9 @@
       "doi": "10.1257/aer.20131031",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20131031",
       "text_url": "https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/value-of-democracy.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1817–1821; results1833–1834; complete conclusion1846–1850",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction1817–1821; results1833–1834; complete conclusion1846–1850"
     },
     {
       "journal_group": "AER",
@@ -334,11 +292,9 @@
       "doi": "10.1257/aer.102.4.1241",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.4.1241",
       "text_url": "https://economics.mit.edu/sites/default/files/2022-08/NFE_may30_2010Complete_corr.pdf",
-      "version_read": "May30,2010 author manuscript; final repository download unavailable",
       "genre": "Research article",
-      "sections_read": "Abstract1; full introduction2–6; substantive results12–14; conclusion36–37 (manuscript pages)",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "May30,2010 author manuscript; final repository download unavailable",
+      "reading_locations": "Abstract1; full introduction2–6; substantive results12–14; conclusion36–37 (manuscript pages)"
     },
     {
       "journal_group": "AER",
@@ -349,11 +305,9 @@
       "doi": "10.1257/aer.101.5.1739",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.101.5.1739",
       "text_url": "https://poverty-action.org/sites/default/files/publications/peer-effects-teacher-incentives-and-impact-tracking-evidence-randomized-evaluation-kenya.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1739–1742; results1755–1756; conclusion1768–1770",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction1739–1742; results1755–1756; conclusion1768–1770"
     },
     {
       "journal_group": "AER",
@@ -364,11 +318,9 @@
       "doi": "10.1257/aer.20121607",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20121607",
       "text_url": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/file/512wp_0.pdf",
-      "version_read": "RevisedDecember12,2014; Stanford Working Paper512",
       "genre": "Research article",
-      "sections_read": "AbstractPDF2; full introductionPDF3–7/printed2–6; resultsPDF24/printed23 and PDF38/printed37; conclusionPDF38–39/printed37–38",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "RevisedDecember12,2014; Stanford Working Paper512",
+      "reading_locations": "AbstractPDF2; full introductionPDF3–7/printed2–6; resultsPDF24/printed23 and PDF38/printed37; conclusionPDF38–39/printed37–38"
     },
     {
       "journal_group": "AER",
@@ -379,11 +331,9 @@
       "doi": "10.2307/2118030",
       "publication_url": "https://www.jstor.org/stable/2118030",
       "text_url": "https://davidcard.berkeley.edu/papers/njmin-aer.pdf",
-      "version_read": "Published AER copy with later appended material; author-hosted OCR",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction772–773; results778; conclusion792",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy with later appended material; author-hosted OCR",
+      "reading_locations": "Abstract and full introduction772–773; results778; conclusion792"
     },
     {
       "journal_group": "AER",
@@ -394,11 +344,9 @@
       "doi": "10.2307/2006669",
       "publication_url": "https://www.jstor.org/stable/2006669",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/Angrist%201990%20-%20Lifetime%20Earnings%20and%20the%20Vietname%20.pdf",
-      "version_read": "Published AER/JSTOR copy; interleaved OCR columns followed through",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction313–314; results320–321; complete conclusion330–331",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER/JSTOR copy; interleaved OCR columns followed through",
+      "reading_locations": "Abstract and full introduction313–314; results320–321; complete conclusion330–331"
     },
     {
       "journal_group": "AER",
@@ -409,11 +357,9 @@
       "doi": "10.1257/aer.20150572",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20150572",
       "text_url": "https://opportunityinsights.org/wp-content/uploads/2018/03/mto_paper.pdf",
-      "version_read": "August2015 author manuscript",
       "genre": "Research article",
-      "sections_read": "AbstractPDF1; full introductionPDF2–7/printed1–6; resultsPDF18/printed17; complete conclusionPDF40–42/printed39–41",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "August2015 author manuscript",
+      "reading_locations": "AbstractPDF1; full introductionPDF2–7/printed1–6; resultsPDF18/printed17; complete conclusionPDF40–42/printed39–41"
     },
     {
       "journal_group": "AER",
@@ -424,11 +370,9 @@
       "doi": "10.1257/aer.104.9.2633",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.104.9.2633",
       "text_url": "https://opportunityinsights.org/wp-content/uploads/2018/03/teachers2.pdf",
-      "version_read": "Undated AER-formatted author version without final journal pagination",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1–4; college results17–18; complete conclusion33–34 (version pages)",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Undated AER-formatted author version without final journal pagination",
+      "reading_locations": "Abstract and full introduction1–4; college results17–18; complete conclusion33–34 (version pages)"
     },
     {
       "journal_group": "AER",
@@ -439,11 +383,9 @@
       "doi": "10.1257/aer.102.5.1927",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1927",
       "text_url": "https://econweb.ucsd.edu/~gdahl/papers/children-and-EITC.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction1927–1930; results1939–1940 and IV robustness1943; conclusion1951",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction1927–1930; results1939–1940 and IV robustness1943; conclusion1951"
     },
     {
       "journal_group": "AER",
@@ -454,11 +396,9 @@
       "doi": "10.1257/aer.20190825",
       "publication_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20190825",
       "text_url": "https://economics.mit.edu/sites/default/files/2022-08/aer.20190825.pdf",
-      "version_read": "Published AER copy",
       "genre": "Research article",
-      "sections_read": "Abstract and full introduction2697–2701; results2716–2717; conclusion2731",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published AER copy",
+      "reading_locations": "Abstract and full introduction2697–2701; results2716–2717; conclusion2731"
     },
     {
       "journal_group": "QJE",
@@ -469,16 +409,14 @@
       "doi": "10.1162/qjec.2008.123.1.139",
       "publication_url": "https://doi.org/10.1162/qjec.2008.123.1.139",
       "text_url": "https://www.nber.org/system/files/working_papers/w13367/w13367.pdf",
-      "version_read": "NBER 13367, September 2007",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 13367, September 2007",
+      "reading_locations": {
         "abstract_pdf_pages": "2–3",
         "complete_introduction_pdf_pages": "3–5",
         "selected_substantive_results_pdf_pages": "17–18",
         "complete_conclusion_pdf_pages": "30–31"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -489,16 +427,14 @@
       "doi": "10.1093/qje/qjr009",
       "publication_url": "https://doi.org/10.1093/qje/qjr009",
       "text_url": "https://www.nber.org/papers/w15157.pdf",
-      "version_read": "NBER 15157, July 2009",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 15157, July 2009",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "23, 26–27",
         "complete_conclusion_pdf_pages": "39"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -509,16 +445,14 @@
       "doi": "10.1093/qje/qjt005",
       "publication_url": "https://doi.org/10.1093/qje/qjt005",
       "text_url": "https://www.nber.org/system/files/working_papers/w17098/w17098.pdf",
-      "version_read": "NBER 17098, May 2011",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 17098, May 2011",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "18–19",
         "complete_conclusion_pdf_pages": "42–43"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -529,16 +463,14 @@
       "doi": "10.1162/qjec.2008.123.3.1251",
       "publication_url": "https://doi.org/10.1162/qjec.2008.123.3.1251",
       "text_url": "https://www.kellogg.northwestern.edu/faculty/qian/resources/Missing-Women_QJE_20080407_all.pdf",
-      "version_read": "Author final draft, filename dated 20080407",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author final draft, filename dated 20080407",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–4",
         "selected_substantive_results_pdf_pages": "14–17",
         "complete_conclusion_pdf_pages": "20"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -549,16 +481,14 @@
       "doi": "10.1093/qje/qjv016",
       "publication_url": "https://doi.org/10.1093/qje/qjv016",
       "text_url": "https://www.nber.org/system/files/working_papers/w16361/w16361.pdf",
-      "version_read": "NBER 16361, September 2010",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 16361, September 2010",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "18–19",
         "complete_conclusion_pdf_pages": "42"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -569,16 +499,14 @@
       "doi": "10.1093/qje/qjx037",
       "publication_url": "https://doi.org/10.1093/qje/qjx037",
       "text_url": "https://www.nber.org/system/files/working_papers/w22395/w22395.pdf",
-      "version_read": "NBER 22395, July 2016",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 22395, July 2016",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "14–18",
         "complete_conclusion_pdf_pages": "28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -589,16 +517,14 @@
       "doi": "10.1162/003355302320935025",
       "publication_url": "https://doi.org/10.1162/003355302320935025",
       "text_url": "https://www.nber.org/papers/w8460.pdf",
-      "version_read": "NBER 8460, September 2001; abstract read visually",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 8460, September 2001; abstract read visually",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "20–21",
         "complete_conclusion_pdf_pages": "36–37"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -609,16 +535,14 @@
       "doi": "10.1162/003355300555042",
       "publication_url": "https://doi.org/10.1162/003355300555042",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/Why%20Did%20the%20West%20Extend%20the%20Franchise%20Democracy%2C%20I.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–3",
         "selected_substantive_results_pdf_pages": "16–18 (historical assessment, theoretical article)",
         "complete_conclusion_pdf_pages": "28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -629,16 +553,14 @@
       "doi": "10.1162/qjec.2009.124.2.531",
       "publication_url": "https://doi.org/10.1162/qjec.2009.124.2.531",
       "text_url": "https://docs.iza.org/dp2886.pdf",
-      "version_read": "IZA DP 2886, June 2007",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "IZA DP 2886, June 2007",
+      "reading_locations": {
         "abstract_pdf_pages": "3",
         "complete_introduction_pdf_pages": "4–8",
         "selected_substantive_results_pdf_pages": "19–21",
         "complete_conclusion_pdf_pages": "34–35"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -649,16 +571,14 @@
       "doi": null,
       "publication_url": "https://academic.oup.com/qje/article/134/2/1021/5298503",
       "text_url": "https://davidyyang.com/pdfs/hk_protest_experiment_draft.pdf",
-      "version_read": "Author draft, October 2018",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author draft, October 2018",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–6",
         "selected_substantive_results_pdf_pages": "21–23",
         "complete_conclusion_pdf_pages": "33–34"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -669,16 +589,14 @@
       "doi": null,
       "publication_url": "https://academic.oup.com/qje/article-abstract/114/2/533/1844228",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/Using%20Maimonides%20Rule%20To%20Estimate%20the%20Effect%20of%20Cl.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "21–23",
         "complete_conclusion_pdf_pages": "37–38"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -689,16 +607,14 @@
       "doi": "10.1093/qje/qju020",
       "publication_url": "https://doi.org/10.1093/qje/qju020",
       "text_url": "https://yanagizawadrott.com/wp-content/uploads/2016/02/rwandadyd.pdf",
-      "version_read": "Author text, August 2014",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author text, August 2014",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–5",
         "selected_substantive_results_pdf_pages": "18–19",
         "complete_conclusion_pdf_pages": "29–31"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -709,16 +625,14 @@
       "doi": "10.1162/qjec.122.3.1187",
       "publication_url": "https://doi.org/10.1162/qjec.122.3.1187",
       "text_url": "https://www.nber.org/system/files/working_papers/w12169/w12169.pdf",
-      "version_read": "NBER 12169, April 2006",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 12169, April 2006",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "18–20",
         "complete_conclusion_pdf_pages": "34"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -729,16 +643,14 @@
       "doi": "10.1162/qjec.121.3.931",
       "publication_url": "https://doi.org/10.1162/qjec.121.3.931",
       "text_url": "https://web.stanford.edu/~gentzkow/research/tv_turnout.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–5",
         "selected_substantive_results_pdf_pages": "23–26",
         "complete_conclusion_pdf_pages": "40–41"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -749,16 +661,14 @@
       "doi": "10.1093/qje/qjr035",
       "publication_url": "https://doi.org/10.1093/qje/qjr035",
       "text_url": "https://people.bu.edu/chamley/764-23/Dittmar.pdf",
-      "version_read": "Published article, institutional course copy",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, institutional course copy",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–3",
         "selected_substantive_results_pdf_pages": "14–16",
         "complete_conclusion_pdf_pages": "33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -769,16 +679,14 @@
       "doi": "10.1162/003355398555720",
       "publication_url": "https://doi.org/10.1162/003355398555720",
       "text_url": "https://www.nber.org/system/files/working_papers/w5657/w5657.pdf",
-      "version_read": "NBER 5657, July 1996",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 5657, July 1996",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "20–21",
         "complete_conclusion_pdf_pages": "26–28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -789,16 +697,14 @@
       "doi": "10.1162/qjec.2010.125.2.515",
       "publication_url": "https://doi.org/10.1162/qjec.2010.125.2.515",
       "text_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/518%20perceived%20returns%20to%20schooling%20QJE2010.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "18–20 (beliefs results)",
         "complete_conclusion_pdf_pages": "30–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -809,16 +715,14 @@
       "doi": "10.1162/qjec.2010.125.1.1",
       "publication_url": "https://doi.org/10.1162/qjec.2010.125.1.1",
       "text_url": "https://www.nber.org/system/files/working_papers/w14406/w14406.pdf",
-      "version_read": "NBER 14406, October 2008",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 14406, October 2008",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "14–16",
         "complete_conclusion_pdf_pages": "26–27"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -829,16 +733,14 @@
       "doi": "10.1093/qje/qjs002",
       "publication_url": "https://doi.org/10.1093/qje/qjs002",
       "text_url": "https://www.nber.org/system/files/working_papers/w16021/w16021.pdf",
-      "version_read": "NBER 16021, May 2010, earlier title Economic Opportunities and Gender Differences in Human Capital",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 16021, May 2010, earlier title Economic Opportunities and Gender Differences in Human Capital",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "17–19",
         "complete_conclusion_pdf_pages": "25–26"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -849,16 +751,14 @@
       "doi": "10.1162/qjec.122.3.1007",
       "publication_url": "https://doi.org/10.1162/qjec.122.3.1007",
       "text_url": "https://www.nber.org/system/files/working_papers/w10324/w10324.pdf",
-      "version_read": "NBER 10324, revised August 2006",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 10324, revised August 2006",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "24–26, 41",
         "complete_conclusion_pdf_pages": "41–44"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -869,16 +769,14 @@
       "doi": null,
       "publication_url": "https://academic.oup.com/qje/article-abstract/122/1/73/1924773",
       "text_url": "https://www.isid.ac.in/~tridip/Teaching/DevelopmentMicroeconomics/Spring2012/Readings/03Health/11Bleakley-QJE2007.pdf",
-      "version_read": "Published article, institutional course copy",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, institutional course copy",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "14, 16–17",
         "complete_conclusion_pdf_pages": "32–34"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -889,16 +787,14 @@
       "doi": "10.1162/qjec.2009.124.3.1057",
       "publication_url": "https://doi.org/10.1162/qjec.2009.124.3.1057",
       "text_url": "https://www.nber.org/system/files/working_papers/w13305/w13305.pdf",
-      "version_read": "NBER 13305, August 2007; author text July 30, 2007",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 13305, August 2007; author text July 30, 2007",
+      "reading_locations": {
         "abstract_pdf_pages": "2–3",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "17–19",
         "complete_conclusion_pdf_pages": "29–30"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -909,16 +805,14 @@
       "doi": "10.1162/qjec.2009.124.2.677",
       "publication_url": "https://doi.org/10.1162/qjec.2009.124.2.677",
       "text_url": "https://www.nber.org/system/files/working_papers/w13718/w13718.pdf",
-      "version_read": "NBER 13718, January 2008",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 13718, January 2008",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "14–16",
         "complete_conclusion_pdf_pages": "32–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -929,16 +823,14 @@
       "doi": "10.1162/qjec.2009.124.1.349",
       "publication_url": "https://doi.org/10.1162/qjec.2009.124.1.349",
       "text_url": "https://www.nber.org/system/files/working_papers/w13947/w13947.pdf",
-      "version_read": "NBER 13947, April 2008",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 13947, April 2008",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "26–28",
         "complete_conclusion_pdf_pages": "31–32"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -949,16 +841,14 @@
       "doi": "10.1162/qjec.2010.125.1.417",
       "publication_url": "https://doi.org/10.1162/qjec.2010.125.1.417",
       "text_url": "https://www.nber.org/system/files/working_papers/w13543/w13543.pdf",
-      "version_read": "NBER 13543, revised June 2009, author text April 2009",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 13543, revised June 2009, author text April 2009",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "15–17",
         "complete_conclusion_pdf_pages": "23–24"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -969,16 +859,14 @@
       "doi": null,
       "publication_url": "https://academic.oup.com/qje/article-abstract/131/2/799/2606976",
       "text_url": "https://www.nber.org/system/files/working_papers/w19213/w19213.pdf",
-      "version_read": "NBER 19213, July 2013",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 19213, July 2013",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "22–24",
         "complete_conclusion_pdf_pages": "32–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -989,16 +877,14 @@
       "doi": "10.1162/qjec.2010.125.2.767",
       "publication_url": "https://doi.org/10.1162/qjec.2010.125.2.767",
       "text_url": "https://voices.uchicago.edu/richardhornbeck/files/2019/10/propertyRightsAgriculturalDev.pdf",
-      "version_read": "Published article, author-hosted; curl recovered",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, author-hosted; curl recovered",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "23–24, 35–36",
         "complete_conclusion_pdf_pages": "41–42"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -1009,16 +895,14 @@
       "doi": null,
       "publication_url": "https://academic.oup.com/qje/article-abstract/118/2/549/1899587",
       "text_url": "https://web.mit.edu/14.75J/www/mex5.pdf",
-      "version_read": "Author draft, October 2002, MIT-hosted",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author draft, October 2002, MIT-hosted",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–6",
         "selected_substantive_results_pdf_pages": "26–28",
         "complete_conclusion_pdf_pages": "42–43"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -1029,16 +913,14 @@
       "doi": "10.1162/qjec.122.3.1235",
       "publication_url": "https://doi.org/10.1162/qjec.122.3.1235",
       "text_url": "https://economics.mit.edu/sites/default/files/2022-08/Remedying%20Education%20Evidence%20from%20Two%20Randomized%20E.pdf",
-      "version_read": "Undated author manuscript",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Undated author manuscript",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–4",
         "selected_substantive_results_pdf_pages": "10–12",
         "complete_conclusion_pdf_pages": "20–21"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "QJE",
@@ -1049,16 +931,14 @@
       "doi": "10.1093/qje/qjs034",
       "publication_url": "https://doi.org/10.1093/qje/qjs034",
       "text_url": "https://www.nber.org/system/files/working_papers/w17417/w17417.pdf",
-      "version_read": "NBER 17417, September 2011",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 17417, September 2011",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–5",
         "selected_substantive_results_pdf_pages": "26–27",
         "complete_conclusion_pdf_pages": "31–32"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "JPE",
@@ -1069,11 +949,9 @@
       "doi": "10.1086/261732",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/261732",
       "text_url": "https://qn1-next.xuetangonline.com/16795376259774.pdf",
-      "version_read": "Published JPE scan with JSTOR cover and extra blank pages",
       "genre": "empirical research article",
-      "sections_read": "Published JPE/JSTOR copy hosted by the Xuetang academic course platform, DOI10.1086/261732. PDF2 = printed1228. Read abstract and complete introduction1228–1230/PDF2–4, historical organization1230–1231/PDF4–5, substantive productivity discussion1246/PDF20 and1248/PDF22, complete conclusion1248–1249/PDF22–23. The file includes a cover and extra blank pages.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE scan with JSTOR cover and extra blank pages",
+      "reading_locations": "Published JPE/JSTOR copy hosted by the Xuetang academic course platform, DOI10.1086/261732. PDF2 = printed1228. Read abstract and complete introduction1228–1230/PDF2–4, historical organization1230–1231/PDF4–5, substantive productivity discussion1246/PDF20 and1248/PDF22, complete conclusion1248–1249/PDF22–23. The file includes a cover and extra blank pages."
     },
     {
       "journal_group": "JPE",
@@ -1084,11 +962,9 @@
       "doi": "10.1086/340778",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/340778",
       "text_url": "https://cpi.stanford.edu/_media/pdf/Reference%20Media/Goldin%20and%20Katz_2002_Gender.pdf",
-      "version_read": "Published JPE copy",
       "genre": "empirical research article",
-      "sections_read": "Published JPE copy hosted by Stanford's Center on Poverty and Inequality, DOI10.1086/340778. PDF1 = printed730. Read abstract and complete introduction730–731/PDF1–2; additional diffusion/legal-setting discussion732–734/PDF3–5; marriage-results discussion754–755/PDF25–26; complete final summary766–767/PDF37–38.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy",
+      "reading_locations": "Published JPE copy hosted by Stanford's Center on Poverty and Inequality, DOI10.1086/340778. PDF1 = printed730. Read abstract and complete introduction730–731/PDF1–2; additional diffusion/legal-setting discussion732–734/PDF3–5; marriage-results discussion754–755/PDF25–26; complete final summary766–767/PDF37–38."
     },
     {
       "journal_group": "JPE",
@@ -1099,11 +975,9 @@
       "doi": "10.1086/700766",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/700766",
       "text_url": "https://www.nber.org/system/files/working_papers/w21263/w21263.pdf",
-      "version_read": "NBER 21263, revised May 2018, originally June 2015",
       "genre": "empirical research article",
-      "sections_read": "May2018 revised NBER21263 author version. Abstract PDF2; entire introduction PDF3–6/printed1–4; results PDF19–22/printed17–20; entire conclusion PDF29–31/printed27–29.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 21263, revised May 2018, originally June 2015",
+      "reading_locations": "May2018 revised NBER21263 author version. Abstract PDF2; entire introduction PDF3–6/printed1–4; results PDF19–22/printed17–20; entire conclusion PDF29–31/printed27–29."
     },
     {
       "journal_group": "JPE",
@@ -1114,11 +988,9 @@
       "doi": "10.1086/383100",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/383100",
       "text_url": "https://oema.army.mil/pub/2004_Acemoglu_Autor_Lyle_Women_War_and_Wages.pdf",
-      "version_read": "Published JPE copy with JSTOR cover",
       "genre": "empirical research article",
-      "sections_read": "Published JPE copy with cover. Abstract and entire introduction497–507/PDF2–12 (several intervening figure pages); results531–535/PDF36–40; full conclusion546–547/PDF51–52.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy with JSTOR cover",
+      "reading_locations": "Published JPE copy with cover. Abstract and entire introduction497–507/PDF2–12 (several intervening figure pages); results531–535/PDF36–40; full conclusion546–547/PDF51–52."
     },
     {
       "journal_group": "JPE",
@@ -1129,11 +1001,9 @@
       "doi": "10.1086/261805",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/261805",
       "text_url": "https://davidcard.berkeley.edu/papers/school-quality.pdf",
-      "version_read": "Published JPE copy with JSTOR cover",
       "genre": "empirical research article",
-      "sections_read": "Published copy, cover PDF1. Abstract and full introduction1–3/PDF2–4; empirical setup4/PDF5; results20/PDF21; full conclusion36–37/PDF37–38; data-source notes37/PDF38.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy with JSTOR cover",
+      "reading_locations": "Published copy, cover PDF1. Abstract and full introduction1–3/PDF2–4; empirical setup4/PDF5; results20/PDF21; full conclusion36–37/PDF37–38; data-source notes37/PDF38."
     },
     {
       "journal_group": "JPE",
@@ -1144,11 +1014,9 @@
       "doi": "10.1086/426041",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/426041",
       "text_url": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/file/154wp_0.pdf",
-      "version_read": "Stanford CREDPR working paper 154, August 2002",
       "genre": "empirical research article",
-      "sections_read": "August2002 StanfordCREDPR154 author version. AbstractPDF2/printed1; full introductionPDF3–5/printed2–4; service frameworkPDF6/printed5; methodsPDF21–22/printed20–21; cause-specific and poverty resultsPDF25–26/printed24–25; full conclusionPDF26–28/printed25–27.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Stanford CREDPR working paper 154, August 2002",
+      "reading_locations": "August2002 StanfordCREDPR154 author version. AbstractPDF2/printed1; full introductionPDF3–5/printed2–4; service frameworkPDF6/printed5; methodsPDF21–22/printed20–21; cause-specific and poverty resultsPDF25–26/printed24–25; full conclusionPDF26–28/printed25–27."
     },
     {
       "journal_group": "JPE",
@@ -1159,11 +1027,9 @@
       "doi": "10.1086/432166",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/432166",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/unbundling-institutions.pdf",
-      "version_read": "Published JPE copy",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract949; complete introduction950–954/PDF2–6; results974/PDF26 and tables972–973/PDF24–25; full conclusion988–989/PDF40–41; variable definitions990/PDF42.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy",
+      "reading_locations": "Published copy. Abstract949; complete introduction950–954/PDF2–6; results974/PDF26 and tables972–973/PDF24–25; full conclusion988–989/PDF40–41; variable definitions990/PDF42."
     },
     {
       "journal_group": "JPE",
@@ -1174,11 +1040,9 @@
       "doi": "10.1086/261959",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/261959",
       "text_url": "https://web.stanford.edu/~avner/Greif_Papers/1994%20Greif%20Cultural%20Beliefs%201994.pdf",
-      "version_read": "Published JPE scan with JSTOR cover; OCR plus selected visual verification",
       "genre": "historical/theoretical research with historical evidence",
-      "sections_read": "Published scan; historical/game-theoretical article. Abstract912–913 and full introduction913–914/PDF2–4; framework915–916/PDF5–6; substantive model/historical interpretation935–936/PDF25–26; complete conclusion942–944/PDF32–34. OCR was incomplete, so abstract, entire introduction, result936, and complete conclusion were checked on rendered pages.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE scan with JSTOR cover; OCR plus selected visual verification",
+      "reading_locations": "Published scan; historical/game-theoretical article. Abstract912–913 and full introduction913–914/PDF2–4; framework915–916/PDF5–6; substantive model/historical interpretation935–936/PDF25–26; complete conclusion942–944/PDF32–34. OCR was incomplete, so abstract, entire introduction, result936, and complete conclusion were checked on rendered pages."
     },
     {
       "journal_group": "JPE",
@@ -1189,11 +1053,9 @@
       "doi": "10.1086/700936",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/700936",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/Democracy%20Does%20Cause%20Growth.pdf",
-      "version_read": "Published JPE copy",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract47–48/PDF1–2; entire introduction48–53/PDF2–7; quantitative results59–60/PDF13–14; robustness65–66/PDF19–20; complete conclusion96–97/PDF50–51.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy",
+      "reading_locations": "Published copy. Abstract47–48/PDF1–2; entire introduction48–53/PDF2–7; quantitative results59–60/PDF13–14; robustness65–66/PDF19–20; complete conclusion96–97/PDF50–51."
     },
     {
       "journal_group": "JPE",
@@ -1204,11 +1066,9 @@
       "doi": "10.1086/705716",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/705716",
       "text_url": "https://economics.mit.edu/sites/default/files/publications/Robots%20and%20Jobs%20-%20Evidence%20from%20US%20Labor%20Markets.p.pdf",
-      "version_read": "Publisher-formatted May 2020 proof, printed 000; use PDF locators",
       "genre": "empirical research article",
-      "sections_read": "Publisher-formatted May2020 proof, printed pagination000; PDF locators used. AbstractPDF1; complete introductionPDF1–6; exposure validationPDF25–26; employment-results discussionPDF29–30; aggregate calculationPDF53; entire conclusionPDF53–55.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Publisher-formatted May 2020 proof, printed 000; use PDF locators",
+      "reading_locations": "Publisher-formatted May2020 proof, printed pagination000; PDF locators used. AbstractPDF1; complete introductionPDF1–6; exposure validationPDF25–26; employment-results discussionPDF29–30; aggregate calculationPDF53; entire conclusionPDF53–55."
     },
     {
       "journal_group": "JPE",
@@ -1219,11 +1079,9 @@
       "doi": "10.1086/675536",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/675536",
       "text_url": "https://www.blueprintcdn.com/wp-content/uploads/2014/06/Blueprint-Research-2014-Autor-Palmer-Pathak.pdf",
-      "version_read": "Published JPE copy in academic policy archive",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract661; entire introduction662–668/PDF2–8; historical detail669/PDF9; table/results686–687/PDF26–27; economic benchmarking702/PDF42; complete conclusion702–704/PDF42–44.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy in academic policy archive",
+      "reading_locations": "Published copy. Abstract661; entire introduction662–668/PDF2–8; historical detail669/PDF9; table/results686–687/PDF26–27; economic benchmarking702/PDF42; complete conclusion702–704/PDF42–44."
     },
     {
       "journal_group": "JPE",
@@ -1234,11 +1092,9 @@
       "doi": "10.1086/701605",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/701605",
       "text_url": "https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/3947/files/2024/04/Moral_Incentives-90d8adfa162e4a5a.pdf",
-      "version_read": "Published JPE copy on author's academic site",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract1641; complete introduction1642–1647/PDF2–7; outcome definition1660/PDF20; estimation/results1661–1662/PDF21–22; complete conclusion1679–1681/PDF39–41.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy on author's academic site",
+      "reading_locations": "Published copy. Abstract1641; complete introduction1642–1647/PDF2–7; outcome definition1660/PDF20; estimation/results1661–1662/PDF21–22; complete conclusion1679–1681/PDF39–41."
     },
     {
       "journal_group": "JPE",
@@ -1249,11 +1105,9 @@
       "doi": "10.1086/720397",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/720397",
       "text_url": "https://iris.unibocconi.it/bitstream/11565/4060905/2/720397.pdf",
-      "version_read": "Published open-access JPE copy in Bocconi repository",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract2315; complete introduction2316–2319/PDF2–5; descriptive data/identification2333–2334/PDF19–20; table and dynamic results2338–2339/PDF24–25; complete conclusion2358–2359/PDF44–45.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published open-access JPE copy in Bocconi repository",
+      "reading_locations": "Published copy. Abstract2315; complete introduction2316–2319/PDF2–5; descriptive data/identification2333–2334/PDF19–20; table and dynamic results2338–2339/PDF24–25; complete conclusion2358–2359/PDF44–45."
     },
     {
       "journal_group": "JPE",
@@ -1264,11 +1118,9 @@
       "doi": "10.1086/701354",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/701354",
       "text_url": "https://www.nber.org/system/files/working_papers/w22204/w22204.pdf",
-      "version_read": "NBER 22204, April 2016",
       "genre": "empirical research article",
-      "sections_read": "April2016 NBER22204 author version. AbstractPDF2; complete introductionPDF3–7/printed1–5; empirical timingPDF17/printed15; resultsPDF18–19/printed16–17; complete conclusionPDF29/printed27.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 22204, April 2016",
+      "reading_locations": "April2016 NBER22204 author version. AbstractPDF2; complete introductionPDF3–7/printed1–5; empirical timingPDF17/printed15; resultsPDF18–19/printed16–17; complete conclusionPDF29/printed27."
     },
     {
       "journal_group": "JPE",
@@ -1279,11 +1131,9 @@
       "doi": "10.1086/679627",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/679627",
       "text_url": "https://docs.iza.org/dp5793.pdf",
-      "version_read": "IZA discussion paper 5793, June 2011",
       "genre": "empirical research article",
-      "sections_read": "June2011 IZA5793 author version, superseding unavailableUCLcopyeditURL. AbstractPDF3; full introductionPDF4–10/printed2–8; descriptive/resultsPDF20–23/printed18–21; complete conclusionPDF34–35/printed32–33.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "IZA discussion paper 5793, June 2011",
+      "reading_locations": "June2011 IZA5793 author version, superseding unavailableUCLcopyeditURL. AbstractPDF3; full introductionPDF4–10/printed2–8; descriptive/resultsPDF20–23/printed18–21; complete conclusionPDF34–35/printed32–33."
     },
     {
       "journal_group": "JPE",
@@ -1294,11 +1144,9 @@
       "doi": "10.1086/698760",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/698760",
       "text_url": "https://docs.iza.org/dp9957.pdf",
-      "version_read": "IZA 9957, author text dated 19 May 2016; supplement publication",
       "genre": "research article in supplement issue",
-      "sections_read": "May19,2016 author text in IZA9957. AbstractPDF3; full Introduction including1.1–1.3 PDF4–13/printed3–12; method/dataPDF30; substantive resultsPDF36–37/printed35–36 andPDF55; complete conclusionPDF55–57/printed54–56.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "IZA 9957, author text dated 19 May 2016; supplement publication",
+      "reading_locations": "May19,2016 author text in IZA9957. AbstractPDF3; full Introduction including1.1–1.3 PDF4–13/printed3–12; method/dataPDF30; substantive resultsPDF36–37/printed35–36 andPDF55; complete conclusionPDF55–57/printed54–56."
     },
     {
       "journal_group": "JPE",
@@ -1309,11 +1157,9 @@
       "doi": "10.1086/250042",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/250042",
       "text_url": "https://www.ralfmeisenzahl.com/uploads/7/6/8/1/76818505/la_porta_et_at_1998_law_and_finance.pdf",
-      "version_read": "Published JPE copy on academic site",
       "genre": "empirical research article",
-      "sections_read": "Published copy. Abstract and full opening Overview1113–1117/PDF1–5; measures and results1128–1129/PDF16–17; complete conclusion1151–1152/PDF39–40.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy on academic site",
+      "reading_locations": "Published copy. Abstract and full opening Overview1113–1117/PDF1–5; measures and results1128–1129/PDF16–17; complete conclusion1151–1152/PDF39–40."
     },
     {
       "journal_group": "JPE",
@@ -1324,11 +1170,9 @@
       "doi": "10.1086/250043",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/250043",
       "text_url": "https://jthomasniu.org/class/589/Readings/juvjust-levitt.pdf",
-      "version_read": "Published JPE copy with JSTOR cover on academic course site",
       "genre": "empirical research article",
-      "sections_read": "Published JPE version. Read abstract and full introduction, printed 1156–1160 (PDF 2–6); substantive public/private custody discussion and next identification comparison, 1171–1172 (PDF 17–18); full conclusion, 1181–1182 (PDF 27–28).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy with JSTOR cover on academic course site",
+      "reading_locations": "Published JPE version. Read abstract and full introduction, printed 1156–1160 (PDF 2–6); substantive public/private custody discussion and next identification comparison, 1171–1172 (PDF 17–18); full conclusion, 1181–1182 (PDF 27–28)."
     },
     {
       "journal_group": "JPE",
@@ -1339,11 +1183,9 @@
       "doi": "10.1086/250109",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/250109",
       "text_url": "https://www.nber.org/system/files/working_papers/w5430/w5430.pdf",
-      "version_read": "NBER 5430, January 1996; later JPE supplement article",
       "genre": "research article in supplement issue",
-      "sections_read": "January 1996 NBER 5430, predecessor to the 1999 JPE supplement article. Read abstract (PDF 2); full introduction, printed 2–6 (PDF 3–7); substantive victimization results, 20–21 (PDF 21–22); full conclusion, 40–41 (PDF 41–42). Corrupted native font repaired by Apple Vision OCR.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 5430, January 1996; later JPE supplement article",
+      "reading_locations": "January 1996 NBER 5430, predecessor to the 1999 JPE supplement article. Read abstract (PDF 2); full introduction, printed 2–6 (PDF 3–7); substantive victimization results, 20–21 (PDF 21–22); full conclusion, 40–41 (PDF 41–42). Corrupted native font repaired by Apple Vision OCR."
     },
     {
       "journal_group": "JPE",
@@ -1354,11 +1196,9 @@
       "doi": "10.1086/426036",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/426036",
       "text_url": "https://www.nber.org/system/files/working_papers/w7831/w7831.pdf",
-      "version_read": "NBER 7831, August 2000; corrupt embedded font repaired by OCR",
       "genre": "empirical research article",
-      "sections_read": "August 2000 NBER 7831, not the final 2005 pagination. Read abstract (PDF 2); full introduction, printed 1–7 (PDF 3–9); data/variable definitions, 7–8 (PDF 9–10); substantive sensitivity results, 26–27 (PDF 28–29); full conclusion, 34–36 (PDF 36–38). Native text was corrupted; Apple Vision OCR used.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 7831, August 2000; corrupt embedded font repaired by OCR",
+      "reading_locations": "August 2000 NBER 7831, not the final 2005 pagination. Read abstract (PDF 2); full introduction, printed 1–7 (PDF 3–9); data/variable definitions, 7–8 (PDF 9–10); substantive sensitivity results, 26–27 (PDF 28–29); full conclusion, 34–36 (PDF 36–38). Native text was corrupted; Apple Vision OCR used."
     },
     {
       "journal_group": "JPE",
@@ -1369,11 +1209,9 @@
       "doi": "10.1086/261808",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/261808",
       "text_url": "https://hanushek.stanford.edu/sites/default/files/publications/Hanushek%201992%20JPE%20100%281%29.pdf",
-      "version_read": "Published JPE scan with JSTOR cover; OCR",
       "genre": "empirical research article",
-      "sections_read": "Published JPE scan. Read abstract and full introductory opening, 84–85 (PDF 2–3); conceptual/data discussion, 86–88 (PDF 4–6); substantive results, 99–101 (PDF 17–19); full conclusion, 112–113 (PDF 30–31). OCR used for scanned pages.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE scan with JSTOR cover; OCR",
+      "reading_locations": "Published JPE scan. Read abstract and full introductory opening, 84–85 (PDF 2–3); conceptual/data discussion, 86–88 (PDF 4–6); substantive results, 99–101 (PDF 17–19); full conclusion, 112–113 (PDF 30–31). OCR used for scanned pages."
     },
     {
       "journal_group": "JPE",
@@ -1384,11 +1222,9 @@
       "doi": "10.1086/516388",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/516388",
       "text_url": "https://www.nber.org/system/files/working_papers/w5378/w5378.pdf",
-      "version_read": "NBER 5378, December 1995; corrupt embedded font repaired by OCR",
       "genre": "empirical research article",
-      "sections_read": "December 1995 NBER 5378. Read abstract (PDF 2); full introduction, printed 1–4 (PDF 3–6); substantive descriptive and multivariate results, 27–30 (PDF 29–32); full conclusion, 39–40 (PDF 41–42). Native font repaired by OCR.",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 5378, December 1995; corrupt embedded font repaired by OCR",
+      "reading_locations": "December 1995 NBER 5378. Read abstract (PDF 2); full introduction, printed 1–4 (PDF 3–6); substantive descriptive and multivariate results, 27–30 (PDF 29–32); full conclusion, 39–40 (PDF 41–42). Native font repaired by OCR."
     },
     {
       "journal_group": "JPE",
@@ -1399,11 +1235,9 @@
       "doi": "10.1086/421174",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/421174",
       "text_url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Economic_Shocks_and_Civil_Conflict.pdf",
-      "version_read": "Published JPE copy on author's Berkeley site",
       "genre": "empirical research article",
-      "sections_read": "Published JPE version. Read abstract and full introduction, 725–728 (PDF 1–4); substantive reduced-form/IV results and notes, 737–740 (PDF 13–16); exclusion discussion and full conclusion, 746–747 (PDF 22–23); variable-definition appendix, 748 (PDF 24).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy on author's Berkeley site",
+      "reading_locations": "Published JPE version. Read abstract and full introduction, 725–728 (PDF 1–4); substantive reduced-form/IV results and notes, 737–740 (PDF 13–16); exclusion discussion and full conclusion, 746–747 (PDF 22–23); variable-definition appendix, 748 (PDF 24)."
     },
     {
       "journal_group": "JPE",
@@ -1414,11 +1248,9 @@
       "doi": "10.1086/517935",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/517935",
       "text_url": "https://s3.amazonaws.com/fieldexperiments-papers2/papers/00317.pdf",
-      "version_read": "Author version, October 2005",
       "genre": "empirical research article",
-      "sections_read": "October 2005 author version. Read abstract (PDF 1); full introduction, printed 1–6 (PDF 2–7); measurement, 17–18 (PDF 18–19); substantive results, 20–22 (PDF 21–23); full conclusion, 35–36 (PDF 36–37).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Author version, October 2005",
+      "reading_locations": "October 2005 author version. Read abstract (PDF 1); full introduction, printed 1–6 (PDF 2–7); measurement, 17–18 (PDF 18–19); substantive results, 20–22 (PDF 21–23); full conclusion, 35–36 (PDF 36–37)."
     },
     {
       "journal_group": "JPE",
@@ -1429,11 +1261,9 @@
       "doi": "10.1086/685299",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/685299",
       "text_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/585%20Self-Targeting%20Indonesia%20PublishedApr.pdf",
-      "version_read": "Publisher-formatted March 2016 proof distributed by J-PAL; printed 000",
       "genre": "empirical research article",
-      "sections_read": "Publisher-formatted March 2016 proof, printed page numbers 000, not a final paginated facsimile. Read abstract (PDF 1–2); full introduction (PDF 2–6); substantive selection results and figure/table notes (PDF 25–27); full conclusion (PDF 53 and 56, with the intervening table and notes on PDF 54–55).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Publisher-formatted March 2016 proof distributed by J-PAL; printed 000",
+      "reading_locations": "Publisher-formatted March 2016 proof, printed page numbers 000, not a final paginated facsimile. Read abstract (PDF 1–2); full introduction (PDF 2–6); substantive selection results and figure/table notes (PDF 25–27); full conclusion (PDF 53 and 56, with the intervening table and notes on PDF 54–55)."
     },
     {
       "journal_group": "JPE",
@@ -1444,11 +1274,9 @@
       "doi": "10.1086/699018",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/699018",
       "text_url": "https://www.nber.org/system/files/working_papers/w22226/w22226.pdf",
-      "version_read": "NBER 22226, revised November 2016; text dated 8 November 2016",
       "genre": "empirical research article",
-      "sections_read": "NBER 22226, revised November 2016; dated author text 8 November 2016. Read abstract (PDF 2–3); full introduction, printed 1–3 (PDF 3–5); data/measure definitions, 4 (PDF 6); substantive results and sensitivity discussion, 18–19 (PDF 20–21); full conclusion, 23 (PDF 25); summary-table notes, 24 (PDF 26).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "NBER 22226, revised November 2016; text dated 8 November 2016",
+      "reading_locations": "NBER 22226, revised November 2016; dated author text 8 November 2016. Read abstract (PDF 2–3); full introduction, printed 1–3 (PDF 3–5); data/measure definitions, 4 (PDF 6); substantive results and sensitivity discussion, 18–19 (PDF 20–21); full conclusion, 23 (PDF 25); summary-table notes, 24 (PDF 26)."
     },
     {
       "journal_group": "JPE",
@@ -1459,11 +1287,9 @@
       "doi": "10.1086/507154",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/507154",
       "text_url": "https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Almond_2006_Health%20and%20Mental%20Health.pdf",
-      "version_read": "Author version, July 2005, Stanford inequality archive",
       "genre": "empirical research article",
-      "sections_read": "July 2005 author version, not final JPE pagination. Read abstract (PDF 1); full introduction, printed 1–3 (PDF 2–4), and background, 4–5 (PDF 5–6); substantive cohort/state results, 16–18 (PDF 17–19); full conclusion, 39–40 (PDF 40–41).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Author version, July 2005, Stanford inequality archive",
+      "reading_locations": "July 2005 author version, not final JPE pagination. Read abstract (PDF 1); full introduction, printed 1–3 (PDF 2–4), and background, 4–5 (PDF 5–6); substantive cohort/state results, 16–18 (PDF 17–19); full conclusion, 39–40 (PDF 40–41)."
     },
     {
       "journal_group": "JPE",
@@ -1474,11 +1300,9 @@
       "doi": "10.1086/376950",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/376950",
       "text_url": "https://pages.stern.nyu.edu/~alandier/pdfs/QuietLife.pdf",
-      "version_read": "Published JPE copy in NYU academic archive",
       "genre": "empirical research article",
-      "sections_read": "Published JPE version. Read abstract, 1043 (PDF 1); full introduction, 1044–1047 (PDF 2–5); substantive wage results and table notes, 1058–1060 (PDF 16–18); sensitivity discussion and full conclusion, 1072–1073 (PDF 30–31).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Published JPE copy in NYU academic archive",
+      "reading_locations": "Published JPE version. Read abstract, 1043 (PDF 1); full introduction, 1044–1047 (PDF 2–5); substantive wage results and table notes, 1058–1060 (PDF 16–18); sensitivity discussion and full conclusion, 1072–1073 (PDF 30–31)."
     },
     {
       "journal_group": "JPE",
@@ -1489,11 +1313,9 @@
       "doi": "10.1086/322828",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/322828",
       "text_url": "https://websites.umich.edu/~shapiro/dispcap.pdf",
-      "version_read": "Author version, 10 March 2000",
       "genre": "empirical research article",
-      "sections_read": "Author version dated 10 March 2000. Read abstract (PDF 1); full introduction, printed 1–3 (PDF 2–4); additional market illustration, 4 (PDF 5); substantive equipment results and measurement/sample discussion, 18–20 (PDF 19–21); full conclusion, 32–34 (PDF 33–35).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Author version, 10 March 2000",
+      "reading_locations": "Author version dated 10 March 2000. Read abstract (PDF 1); full introduction, printed 1–3 (PDF 2–4); additional market illustration, 4 (PDF 5); substantive equipment results and measurement/sample discussion, 18–20 (PDF 19–21); full conclusion, 32–34 (PDF 33–35)."
     },
     {
       "journal_group": "JPE",
@@ -1504,11 +1326,9 @@
       "doi": "10.1086/690951",
       "publication_url": "https://www.journals.uchicago.edu/doi/10.1086/690951",
       "text_url": "https://researchonline.lse.ac.uk/id/eprint/91515/1/Yuchtman_Curriculum-and-ideology.pdf",
-      "version_read": "Accepted author version dated 7 October 2015; LSE repository",
       "genre": "empirical research article",
-      "sections_read": "LSE accepted author version dated 7 October 2015; final journal is JPE 125(2), correcting the repository cover’s 152 typo. Read abstract (PDF 2); full introduction, printed 1–5 (PDF 3–7); survey-response check and substantive descriptive/regression results, 18–23 (PDF 20–25); full conclusion, 33–34 (PDF 35–36).",
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      "reference_version": "Accepted author version dated 7 October 2015; LSE repository",
+      "reading_locations": "LSE accepted author version dated 7 October 2015; final journal is JPE 125(2), correcting the repository cover’s 152 typo. Read abstract (PDF 2); full introduction, printed 1–5 (PDF 3–7); survey-response check and substantive descriptive/regression results, 18–23 (PDF 20–25); full conclusion, 33–34 (PDF 35–36)."
     },
     {
       "journal_group": "Econometrica",
@@ -1519,16 +1339,14 @@
       "doi": "10.3982/ECTA20579",
       "publication_url": "https://doi.org/10.3982/ECTA20579",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/browse/2024/09/01/Historical-Self-Governance-and-Norms-of-Cooperation/file/ecta200724.pdf",
-      "version_read": "Published article, copyright correction dated 27 September 2024",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, copyright correction dated 27 September 2024",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1473",
         "full_introduction": "Section 1, PDF pp.1-5, journal pp.1473-1477",
         "substantive_results": "Entire Section 5, PDF pp.16-20, journal pp.1488-1492; includes OLS, IV and robustness",
         "conclusion": "Entire Section 8, PDF pp.26-27, journal pp.1498-1499"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1539,16 +1357,14 @@
       "doi": "10.3982/ECTA20612",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20612",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2024/09/01/The-Rise-of-Fiscal-Capacity-Administration-and-State-Consolidation-in-the-Holy-Roman-Empire/file/ecta200723.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1439",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.1439-1443",
         "substantive_results": "Entire Section 5.1, PDF pp.13-16, journal pp.1451-1454",
         "conclusion": "Entire Section 7, PDF pp.29-31, journal pp.1467-1469"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1559,16 +1375,14 @@
       "doi": "10.3982/ECTA14281",
       "publication_url": "https://doi.org/10.3982/ECTA14281",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2020/07/01/social-media-and-protest-participation-evidence-russia/file/ecta200145.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1479",
         "full_introduction": "Entire Section 1, PDF pp.2-6, journal pp.1480-1484",
         "substantive_results": "Entire Sections 6.1.1-6.1.2, PDF pp.17-22, journal pp.1495-1500",
         "conclusion": "Entire Section 7, PDF pp.33-34, journal pp.1511-1512"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1579,16 +1393,14 @@
       "doi": "10.3982/ECTA20146",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20146",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/browse/2024/11/01/Social-Media-and-Collective-Action-in-China/file/ecta200731.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1993",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.1993-1997",
         "substantive_results": "Entire Section 5.1, PDF pp.15-16, journal pp.2007-2008",
         "conclusion": "Entire Section 8, PDF pp.31-32, journal pp.2023-2024"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1599,16 +1411,14 @@
       "doi": "10.1111/j.1468-0262.2005.00584.x",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2005.00584.x",
       "text_url": "https://hanushek.stanford.edu/sites/default/files/publications/Rivkin%2BHanushek%2BKain%202005%20Ecta%2073%282%29.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.417",
         "full_introduction": "Entire Section 1, PDF pp.1-3, journal pp.417-419",
         "substantive_results": "Entire opening of Section 5 and Section 5.1, PDF pp.16-19, journal pp.432-435",
         "conclusion": "Entire Section 7, PDF pp.33-35, journal pp.449-451"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1619,16 +1429,14 @@
       "doi": "10.3982/ECTA16598",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA16598",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/browse/2022/05/01/misallocation-selection-and-productivity-quantitative-analysis/file/ecta200400.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1261",
         "full_introduction": "Entire Section 1, PDF pp.1-4, journal pp.1261-1264",
         "substantive_results": "Entire Sections 4.6 and 5.3, PDF pp.15-16 and 18-20, journal pp.1275-1276 and 1278-1280",
         "conclusion": "Entire Section 6, PDF pp.20-21, journal pp.1280-1281"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1639,16 +1447,14 @@
       "doi": "10.3982/ECTA18027",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18027",
       "text_url": "https://www.econometricsociety.org/uploads/members-only/18027-3.pdf",
-      "version_read": "Author manuscript, December 2021, deposited by Econometric Society; page numbers refer to this version",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author manuscript, December 2021, deposited by Econometric Society; page numbers refer to this version",
+      "reading_locations": {
         "abstract": "PDF p.1",
         "full_introduction": "Entire Section 1, PDF pp.2-6, manuscript pp.1-5",
         "substantive_results": "Entire Section 3.1, PDF pp.10-13, manuscript pp.9-12",
         "conclusion": "Entire Section 6, PDF pp.21-23, manuscript pp.20-22"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1659,16 +1465,14 @@
       "doi": "10.3982/ECTA11427",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA11427",
       "text_url": "https://web.stanford.edu/~chadj/HHJK.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.1439",
         "full_introduction": "Entire Section 1, PDF pp.2-4, journal pp.1439-1441",
         "substantive_results": "Entire Section 4.1, PDF pp.22-26, journal pp.1459-1463",
         "conclusion": "Entire Section 7, PDF pp.35-36, journal pp.1472-1473"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1679,16 +1483,14 @@
       "doi": "10.3982/ECTA13683",
       "publication_url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13683",
       "text_url": "https://web.stanford.edu/~arungc/BC.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.175",
         "full_introduction": "Entire Section 1, PDF pp.2-6, journal pp.175-179",
         "substantive_results": "Entire Section 4.1, PDF pp.19-21, journal pp.192-194",
         "conclusion": "Entire Section 7, PDF p.35, journal p.208"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1699,16 +1501,14 @@
       "doi": "10.3982/ECTA11991",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA11991",
       "text_url": "https://home.uchicago.edu/bursztyn/Peer_Effects_ECMA.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.1273",
         "full_introduction": "Entire Section 1, PDF pp.2-7, journal pp.1273-1278",
         "substantive_results": "Entire Section 3.2, PDF pp.15-17, journal pp.1286-1288",
         "conclusion": "Entire Section 4, PDF pp.25-27, journal pp.1296-1298"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1719,16 +1519,14 @@
       "doi": "10.3982/ECTA8121",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA8121",
       "text_url": "https://dell.scholars.harvard.edu/sites/g/files/omnuum7696/files/dell/files/ecta8121_0.pdf",
-      "version_read": "Published article; local university course copy, with matching published article independently inspected at author website",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article; local university course copy, with matching published article independently inspected at author website",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1863",
         "full_introduction": "Entire Section 1, PDF pp.1-4, journal pp.1863-1866",
         "substantive_results": "Entire Section 3.3, PDF pp.17-25, journal pp.1879-1887; truncated table on p.1883 read separately",
         "conclusion": "Entire Section 5, PDF p.37, journal p.1899"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1739,16 +1537,14 @@
       "doi": "10.3982/ECTA14139",
       "publication_url": "https://doi.org/10.3982/ECTA14139",
       "text_url": "https://eprints.lse.ac.uk/102772/2/Lowes_et_al_Manuscript_2_.pdf",
-      "version_read": "Author accepted manuscript, 20 February 2017; LSE repository cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author accepted manuscript, 20 February 2017; LSE repository cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2",
         "full_introduction": "Entire Section 1, PDF pp.3-8, manuscript pp.1-6; previously truncated pp.4-5 reread separately",
         "substantive_results": "Entire Section 5, PDF pp.17-20, manuscript pp.15-18",
         "conclusion": "Entire Section 8, PDF pp.30-31, manuscript pp.28-29"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1759,16 +1555,14 @@
       "doi": "10.3982/ECTA13448",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA13448",
       "text_url": "https://www.ruixuejia.com/uploads/4/6/3/3/46339953/exam_ecma__1_.pdf",
-      "version_read": "Published article followed by supplemental material",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article followed by supplemental material",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.677",
         "full_introduction": "Entire Section 1, PDF pp.1-6, journal pp.677-682",
         "substantive_results": "Entire Section 3.1, PDF pp.20-28, journal pp.696-704; previously truncated pp.697-698 reread separately",
         "conclusion": "Entire Section 5, PDF p.52, journal p.728; following pages contain a floated table"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1779,16 +1573,14 @@
       "doi": "10.3982/ECTA20484",
       "publication_url": "https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA20484",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2024/07/01/The-Unequal-Effects-of-Pollution-on-Labor-Supply/file/ecta200708.pdf",
-      "version_read": "Published article; introduction and conclusion read in publisher HTML, results checked in PDF",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article; introduction and conclusion read in publisher HTML, results checked in PDF",
+      "reading_locations": {
         "abstract": "Publisher HTML Abstract, lines 102-104; PDF p.1",
         "full_introduction": "Entire Section 1, publisher HTML lines 105-144; equivalent PDF pp.1-5, journal pp.1063-1067",
         "substantive_results": "Entire Section 4.2, PDF pp.13-15, journal pp.1075-1077",
         "conclusion": "Entire Section 7, publisher HTML lines 556-567; equivalent PDF pp.30-31, journal pp.1092-1093"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1799,16 +1591,14 @@
       "doi": "10.3982/ECTA6551",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA6551",
       "text_url": "https://jenni.uchicago.edu/papers/Cunha_Heckman_etal_2010_Econometrica_v78_n3.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.883",
         "full_introduction": "Entire Section 1, PDF pp.3-4, journal pp.884-885",
         "substantive_results": "Entire Sections 4.2.1 and 4.3 before 4.3.1, PDF p.26 and pp.40-45, journal p.907 and pp.921-926",
         "conclusion": "Entire Section 5, PDF pp.47-48, journal pp.928-929"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1819,16 +1609,14 @@
       "doi": "10.3982/ECTA11576",
       "publication_url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11576",
       "text_url": "https://discovery.ucl.ac.uk/id/eprint/1520417/1/Blundell%20Female%20Labor%20Supply%2C%20Human%20Capital%20and%20Welfare%20Reform.pdf",
-      "version_read": "Published article in author university repository",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article in author university repository",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1705",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.1705-1709",
         "substantive_results": "Entire Section 3.2 including 3.2.1, PDF pp.12-19, journal pp.1716-1723; truncated pp.1717-1718 reread separately",
         "conclusion": "Entire Section 9, PDF pp.45-46, journal pp.1749-1750"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1839,16 +1627,14 @@
       "doi": "10.3982/ECTA9446",
       "publication_url": "https://doi.org/10.3982/ECTA9446",
       "text_url": "https://www.fatihguvenen.com/s/guvenen-smith-ecma-20141.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.2085",
         "full_introduction": "Entire Section 1, PDF pp.2-6, journal pp.2085-2089",
         "substantive_results": "Entire Section 6.1, PDF pp.28-33, journal pp.2111-2116",
         "conclusion": "Entire Section 7 discussion and conclusions, PDF pp.41-44, journal pp.2124-2127"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1859,16 +1645,14 @@
       "doi": "10.3982/ECTA13117",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA13117",
       "text_url": "https://people.unil.ch/mathiasthoenig/files/2017/12/ecta1697.pdf",
-      "version_read": "Published article",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1093",
         "full_introduction": "Entire Section 1, PDF pp.2-4, journal pp.1094-1096",
         "substantive_results": "Entire Section 4.1, PDF pp.17-21, journal pp.1109-1113",
         "conclusion": "Entire Section 7, PDF pp.37-38, journal pp.1129-1130"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1879,16 +1663,14 @@
       "doi": "10.3982/ECTA10984",
       "publication_url": "https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10984",
       "text_url": "https://dl.dropbox.com/s/jwfe4qf6x2l0ocn/Allen%20-%20Information%20Frictions%20in%20Trade.pdf",
-      "version_read": "Published article with a cover sheet; linked by author research page",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet; linked by author research page",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.2041",
         "full_introduction": "Entire Section 1, PDF pp.2-5, journal pp.2041-2044",
         "substantive_results": "Entire Section 4.3, PDF pp.34-36, journal pp.2073-2075",
         "conclusion": "Entire Section 5, PDF p.42, journal p.2081"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1899,16 +1681,14 @@
       "doi": "10.3982/ECTA15122",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA15122",
       "text_url": "https://nathanlane.info/research/historical-state-development-vietnam/historical-state-development-vietnam.pdf",
-      "version_read": "Published article from author website",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from author website",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.2083",
         "full_introduction": "Entire Section 1, PDF pp.1-6, journal pp.2083-2088",
         "substantive_results": "Entire Section 4.1, PDF pp.15-20, journal pp.2097-2102",
         "conclusion": "Entire Section 6, PDF pp.33-34, journal pp.2115-2116"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1919,16 +1699,14 @@
       "doi": "10.3982/ECTA20355",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20355",
       "text_url": "https://iris.unibocconi.it/retrieve/99061c5e-4048-4fba-baf7-08158820ab36/ECTA20355.pdf",
-      "version_read": "Published article in author university repository",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article in author university repository",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1171",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.1171-1175; introduction reread separately after output truncation",
         "substantive_results": "Entire Section 4.2, PDF pp.18-19, journal pp.1188-1189",
         "conclusion": "Entire Section 7, PDF pp.30-31, journal pp.1200-1201"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1939,16 +1717,14 @@
       "doi": "10.3982/ECTA10451",
       "publication_url": "https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10451",
       "text_url": "https://www.chicagobooth.edu/-/media/faculty/amir-sufi/research/miansufi_emtra_2014.pdf",
-      "version_read": "Published article from author university website",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from author university website",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.2197",
         "full_introduction": "Entire Section 0, PDF pp.1-3, journal pp.2197-2199",
         "substantive_results": "Entire Section 2.1, PDF pp.9-11, journal pp.2205-2207",
         "conclusion": "Entire Section 5, PDF pp.25-26, journal pp.2221-2222"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1959,16 +1735,14 @@
       "doi": "10.3982/ECTA6248",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA6248",
       "text_url": "https://drive.google.com/file/d/1Kkv9KmE39VOTjGG5hKtZC9lNsxSeThmD/view",
-      "version_read": "Published article from author research-page link",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from author research-page link",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.623",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.623-627",
         "substantive_results": "Entire Section 2.2, PDF pp.8-9, journal pp.630-631",
         "conclusion": "Entire Section 7, PDF pp.51-53, journal pp.673-675"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1979,16 +1753,14 @@
       "doi": "10.3982/ECTA19815",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19815",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2022/09/01/Tasks-Automation-and-the-Rise-in-US-Wage-Inequality/file/ecta200454.pdf",
-      "version_read": "Published article with correction adding two omitted sentences, 13 October 2022",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with correction adding two omitted sentences, 13 October 2022",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1973",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.1973-1977",
         "substantive_results": "Entire Section 4.1, PDF pp.19-22, journal pp.1991-1994",
         "conclusion": "Entire Section 6, PDF pp.41-42, journal pp.2013-2014"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -1999,16 +1771,14 @@
       "doi": "10.3982/ECTA21157",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21157",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2024/05/01/WalrasBowley-Lecture-Market-Power-and-Wage-Inequality/file/ecta200672.pdf",
-      "version_read": "Published article; official journal metadata also verified from PDF front page",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article; official journal metadata also verified from PDF front page",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.603",
         "full_introduction": "Entire Section 1 including Related Literature, PDF pp.1-6, journal pp.603-608",
         "substantive_results": "Entire Section 5, PDF pp.22-28, journal pp.624-630",
         "conclusion": "Entire Section 7, PDF pp.31-32, journal pp.633-634"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -2019,16 +1789,14 @@
       "doi": "10.3982/ECTA18181",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18181",
       "text_url": "https://econweb.ucsd.edu/~kamurali/papers/Published%20Articles/NREGS_GE%20%28Final%29.pdf",
-      "version_read": "Author final manuscript dated 1 September 2022, linked by author as final; page references are manuscript pages",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author final manuscript dated 1 September 2022, linked by author as final; page references are manuscript pages",
+      "reading_locations": {
         "abstract": "PDF p.1",
         "full_introduction": "Entire unnumbered introduction, PDF pp.2-7, manuscript pp.1-6",
         "substantive_results": "Entire Section 3.1.1, PDF pp.15-16, manuscript pp.14-15",
         "conclusion": "Entire Section 5, PDF pp.31-33, manuscript pp.30-32"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -2039,16 +1807,14 @@
       "doi": "10.3982/ECTA14407",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA14407",
       "text_url": "https://web.stanford.edu/~arungc/CLX.pdf",
-      "version_read": "Published article with a cover sheet",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article with a cover sheet",
+      "reading_locations": {
         "abstract": "PDF p.2, journal p.1",
         "full_introduction": "Entire Section 1, PDF pp.2-7, journal pp.1-6; previously truncated first two journal pages reread separately",
         "substantive_results": "Entire Section 4, PDF pp.18-21, journal pp.17-20",
         "conclusion": "Entire Section 6, PDF p.26, journal p.25"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -2059,16 +1825,14 @@
       "doi": "10.1111/j.1468-0262.2004.00481.x",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2004.00481.x",
       "text_url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Worms.pdf",
-      "version_read": "Published article from Miguel author website",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from Miguel author website",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.159",
         "full_introduction": "Entire Section 1, PDF pp.1-3, journal pp.159-161",
         "substantive_results": "Entire Section 6.1, PDF pp.32-35, journal pp.190-193",
         "conclusion": "Entire Section 9, PDF pp.50-51, journal pp.208-209"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -2079,16 +1843,14 @@
       "doi": "10.3982/ECTA17936",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA17936",
       "text_url": "https://diegopuga.org/papers/Duranton_Puga_ECMA_2023.pdf",
-      "version_read": "Published article from Puga author website",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from Puga author website",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.2219",
         "full_introduction": "Entire Section 1, PDF pp.1-5, journal pp.2219-2223",
         "substantive_results": "Entire Section 6, PDF pp.26-30, journal pp.2244-2248",
         "conclusion": "Entire Section 9, PDF pp.37-38, journal pp.2255-2256"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "Econometrica",
@@ -2099,16 +1861,14 @@
       "doi": "10.3982/ECTA20787",
       "publication_url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20787",
       "text_url": "https://www.econometricsociety.org/publications/econometrica/2023/11/01/Presidential-Address-Demand-Side-Constraints-in-Development-The-Role-of-Market-Size-Trade-and-InEquality/file/ecta200623.pdf",
-      "version_read": "Published article from Econometric Society",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article from Econometric Society",
+      "reading_locations": {
         "abstract": "PDF p.1, journal p.1915",
         "full_introduction": "Entire Section 1 including 1.1 Related Literature, PDF pp.1-7, journal pp.1915-1921",
         "substantive_results": "Entire main Section 4 before Section 4.1, PDF pp.20-23, journal pp.1934-1937",
         "conclusion": "Entire Section 6, PDF pp.27-29, journal pp.1941-1943"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2119,16 +1879,14 @@
       "doi": "10.1093/restud/rdz017",
       "publication_url": "https://doi.org/10.1093/restud/rdz017",
       "text_url": "https://www.nber.org/system/files/working_papers/w24009/w24009.pdf",
-      "version_read": "NBER 24009, November 2017",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 24009, November 2017",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–9",
         "selected_substantive_results_pdf_pages": "28–29, 32",
         "complete_conclusion_pdf_pages": "32–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2139,16 +1897,14 @@
       "doi": "10.1093/restud/rdz024",
       "publication_url": "https://doi.org/10.1093/restud/rdz024",
       "text_url": "https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/file/591wp_0_0.pdf",
-      "version_read": "Stanford King Center WP591, December 2016",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Stanford King Center WP591, December 2016",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "18–19, 25–26",
         "complete_conclusion_pdf_pages": "27"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2159,16 +1915,14 @@
       "doi": "10.1093/restud/rdab038",
       "publication_url": "https://doi.org/10.1093/restud/rdab038",
       "text_url": "https://www.hbs.edu/ris/Publication%20Files/19-018_62e46c13-c4c5-4d50-bd01-8eb7d8a7f215.pdf",
-      "version_read": "HBS WP19-018, May 2021 text",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "HBS WP19-018, May 2021 text",
+      "reading_locations": {
         "abstract_pdf_pages": "3",
         "complete_introduction_pdf_pages": "4–9",
         "selected_substantive_results_pdf_pages": "18–19",
         "complete_conclusion_pdf_pages": "28–29"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2179,16 +1933,14 @@
       "doi": "10.1093/restud/rdz027",
       "publication_url": "https://doi.org/10.1093/restud/rdz027",
       "text_url": "https://igier.unibocconi.eu/sites/default/files/media/attach/Gifts_of_the_Immigrants%2C_Woes_of_the_Natives_Tabellini.pdf",
-      "version_read": "Author April12,2019, Bocconi-hosted",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author April12,2019, Bocconi-hosted",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–7",
         "selected_substantive_results_pdf_pages": "21–23",
         "complete_conclusion_pdf_pages": "32"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2199,16 +1951,14 @@
       "doi": "10.1093/restud/rdac026",
       "publication_url": "https://doi.org/10.1093/restud/rdac026",
       "text_url": "https://www.nber.org/system/files/working_papers/w28965/w28965.pdf",
-      "version_read": "NBER28965, June2021",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER28965, June2021",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–10",
         "selected_substantive_results_pdf_pages": "24–25,33",
         "complete_conclusion_pdf_pages": "33–34"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2219,16 +1969,14 @@
       "doi": "10.1093/restud/rdac025",
       "publication_url": "https://doi.org/10.1093/restud/rdac025",
       "text_url": "https://www.nber.org/system/files/working_papers/w25342/w25342.pdf",
-      "version_read": "NBER25342, revised October2021",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER25342, revised October2021",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "26–27",
         "complete_conclusion_pdf_pages": "42"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2239,16 +1987,14 @@
       "doi": "10.1093/restud/rdac011",
       "publication_url": "https://doi.org/10.1093/restud/rdac011",
       "text_url": "https://www.nber.org/system/files/working_papers/w24733/w24733.pdf",
-      "version_read": "NBER24733, revised March2022",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER24733, revised March2022",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "24–27",
         "complete_conclusion_pdf_pages": "28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2259,16 +2005,14 @@
       "doi": "10.1093/restud/rdt046",
       "publication_url": "https://doi.org/10.1093/restud/rdt046",
       "text_url": "https://www.isid.ac.in/~tridip/Teaching/DevelopmentMicroeconomics/Readings/Banerjee%26Duflo_REStud2014.pdf",
-      "version_read": "Published article, institutional course copy",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, institutional course copy",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "26,34",
         "complete_conclusion_pdf_pages": "34–35"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2279,16 +2023,14 @@
       "doi": "10.1093/restud/rdr015",
       "publication_url": "https://doi.org/10.1093/restud/rdr015",
       "text_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/471%20Education%20Choices%20in%20Mexico%20Working%202009.pdf",
-      "version_read": "Author July2009, J-PAL-hosted",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author July2009, J-PAL-hosted",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–6",
         "selected_substantive_results_pdf_pages": "35",
         "complete_conclusion_pdf_pages": "44–46"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2299,16 +2041,14 @@
       "doi": "10.2307/2297811",
       "publication_url": "https://doi.org/10.2307/2297811",
       "text_url": "https://pages.nyu.edu/debraj/Courses/Readings/GalorZeira.pdf",
-      "version_read": "Published article, NYU course copy, scanned; specified pages read visually",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, NYU course copy, scanned; specified pages read visually",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "2–4",
         "selected_substantive_results_pdf_pages": "16–17 (theoretical implications)",
         "complete_conclusion_pdf_pages": "17–18"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2319,16 +2059,14 @@
       "doi": "10.1093/restud/rdv026",
       "publication_url": "https://doi.org/10.1093/restud/rdv026",
       "text_url": "https://www.nber.org/system/files/working_papers/w19128/w19128.pdf",
-      "version_read": "NBER19128, June2013",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER19128, June2013",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "17–18",
         "complete_conclusion_pdf_pages": "28–29"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2339,16 +2077,14 @@
       "doi": "10.1111/j.1467-937X.2008.00506.x",
       "publication_url": "https://doi.org/10.1111/j.1467-937X.2008.00506.x",
       "text_url": "https://economics.brown.edu/sites/default/files/papers/2006-14_paper.pdf",
-      "version_read": "Brown WP2006-14, March12,2008",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Brown WP2006-14, March12,2008",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–3 (plus related discussion4–5)",
         "selected_substantive_results_pdf_pages": "25–27,32",
         "complete_conclusion_pdf_pages": "32–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2359,16 +2095,14 @@
       "doi": null,
       "publication_url": "https://vivo.brown.edu/display/ogalor",
       "text_url": "https://warwick.ac.uk/fac/soc/economics/staff/omoav/roes_99811.pdf",
-      "version_read": "Published article, author-hosted",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, author-hosted",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–3",
         "selected_substantive_results_pdf_pages": "27–30",
         "complete_conclusion_pdf_pages": "30"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2379,16 +2113,14 @@
       "doi": "10.1093/restud/rdx031",
       "publication_url": "https://doi.org/10.1093/restud/rdx031",
       "text_url": "https://www.nber.org/system/files/working_papers/w22916/w22916.pdf",
-      "version_read": "NBER22916, December2016",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER22916, December2016",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "28–30",
         "complete_conclusion_pdf_pages": "44–45"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2399,16 +2131,14 @@
       "doi": null,
       "publication_url": "https://www.nber.org/papers/w30368",
       "text_url": "https://www.nber.org/system/files/working_papers/w30368/w30368.pdf",
-      "version_read": "NBER30368, August2022",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER30368, August2022",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "30–32",
         "complete_conclusion_pdf_pages": "32–33"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2419,16 +2149,14 @@
       "doi": "10.1093/restud/rdz002",
       "publication_url": "https://doi.org/10.1093/restud/rdz002",
       "text_url": "https://www.nber.org/confer//2016/SI2016/DAE/Dittmar_Meisenzahl.pdf",
-      "version_read": "Author March 15, 2016; earlier title State Capacity and Public Goods: Institutional Change, Human Capital, and Growth in Early Modern Germany",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author March 15, 2016; earlier title State Capacity and Public Goods: Institutional Change, Human Capital, and Growth in Early Modern Germany",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–7",
         "selected_substantive_results_pdf_pages": "21–22, 28",
         "complete_conclusion_pdf_pages": "28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2439,16 +2167,14 @@
       "doi": null,
       "publication_url": "https://www.nber.org/papers/w24659",
       "text_url": "https://www.nber.org/papers/w24659.pdf",
-      "version_read": "NBER 24659, May 2018",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 24659, May 2018",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "29–31",
         "complete_conclusion_pdf_pages": "39–40"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2459,16 +2185,14 @@
       "doi": "10.2307/2297190",
       "publication_url": "https://doi.org/10.2307/2297190",
       "text_url": "https://www.nber.org/system/files/working_papers/w0977/w0977.pdf",
-      "version_read": "NBER 977, September 1982; title uses Labor rather than Labour",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 977, September 1982; title uses Labor rather than Labour",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8 (unheaded introduction)",
         "selected_substantive_results_pdf_pages": "13–15; theoretical discussion 18–20",
         "complete_conclusion_pdf_pages": "46–47"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2479,16 +2203,14 @@
       "doi": null,
       "publication_url": "https://www.nber.org/papers/w12573",
       "text_url": "https://www.nber.org/system/files/working_papers/w12573/w12573.pdf",
-      "version_read": "NBER 12573, October 2006; theory and historical interpretation",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 12573, October 2006; theory and historical interpretation",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "33–35 (theoretical and historical interpretation)",
         "complete_conclusion_pdf_pages": "35–36"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2499,16 +2221,14 @@
       "doi": "10.1093/restud/rdt039",
       "publication_url": "https://doi.org/10.1093/restud/rdt039",
       "text_url": "https://realestate.wharton.upenn.edu/wp-content/uploads/2017/03/752.pdf",
-      "version_read": "Author August 30, 2013, Wharton-hosted",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author August 30, 2013, Wharton-hosted",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–4",
         "selected_substantive_results_pdf_pages": "25–26",
         "complete_conclusion_pdf_pages": "40–42"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2519,16 +2239,14 @@
       "doi": "10.1093/restud/rdy047",
       "publication_url": "https://doi.org/10.1093/restud/rdy047",
       "text_url": "https://discovery.ucl.ac.uk/id/eprint/10053941/1/FinalREStud.pdf",
-      "version_read": "Accepted author version July 2018; repository citation has volume typo, corrected against journal metadata",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Accepted author version July 2018; repository citation has volume typo, corrected against journal metadata",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–8",
         "selected_substantive_results_pdf_pages": "27–28",
         "complete_conclusion_pdf_pages": "37–39"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2539,16 +2257,14 @@
       "doi": "10.1093/restud/rdab036",
       "publication_url": "https://doi.org/10.1093/restud/rdab036",
       "text_url": "https://eprints.whiterose.ac.uk/id/eprint/174955/7/rdab036.pdf",
-      "version_read": "Repository-labelled Published Version; internal Final version; advance-article layout with repository cover; actual sections read via web PDF tool",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Repository-labelled Published Version; internal Final version; advance-article layout with repository cover; actual sections read via web PDF tool",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–8",
         "selected_substantive_results_pdf_pages": "23–25, 36 (mechanism discussion)",
         "complete_conclusion_pdf_pages": "36–37"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2559,16 +2275,14 @@
       "doi": null,
       "publication_url": "https://econ.uconn.edu/person/daniela-vidart/",
       "text_url": "https://media.economics.uconn.edu/working/2021-08R2.pdf",
-      "version_read": "UConn WP2021-08R2, September 2022",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "UConn WP2021-08R2, September 2022",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6 (unheaded introduction)",
         "selected_substantive_results_pdf_pages": "37–38, 40",
         "complete_conclusion_pdf_pages": "40–41"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2579,16 +2293,14 @@
       "doi": "10.1093/restud/rdab034",
       "publication_url": "https://doi.org/10.1093/restud/rdab034",
       "text_url": "https://discovery.ucl.ac.uk/10144212/1/rdab034.pdf",
-      "version_read": "Published article, UCL repository",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Published article, UCL repository",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "1–4",
         "selected_substantive_results_pdf_pages": "30–31",
         "complete_conclusion_pdf_pages": "34–36"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2599,16 +2311,14 @@
       "doi": null,
       "publication_url": "https://www.restud.com/culture-and-the-historical-fertility-transition/",
       "text_url": "https://brianbbeach.github.io/Materials/WP/Beach_Hanlon_Fertility_Transition.pdf",
-      "version_read": "Author September 16, 2021",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "Author September 16, 2021",
+      "reading_locations": {
         "abstract_pdf_pages": "1",
         "complete_introduction_pdf_pages": "2–7",
         "selected_substantive_results_pdf_pages": "36–37",
         "complete_conclusion_pdf_pages": "43–44"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2619,16 +2329,14 @@
       "doi": null,
       "publication_url": "https://sites.google.com/site/rubenenikolopov/nsp",
       "text_url": "https://www.nber.org/system/files/working_papers/w20082/w20082.pdf",
-      "version_read": "NBER 20082, May 2014; earlier title Electoral Rules and the Quality of Politicians: Theory and Evidence from a Field Experiment in Afghanistan",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 20082, May 2014; earlier title Electoral Rules and the Quality of Politicians: Theory and Evidence from a Field Experiment in Afghanistan",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–5",
         "selected_substantive_results_pdf_pages": "23–25",
         "complete_conclusion_pdf_pages": "29–30"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2639,16 +2347,14 @@
       "doi": "10.1093/restud/rdt047",
       "publication_url": "https://doi.org/10.1093/restud/rdt047",
       "text_url": "https://www.nber.org/system/files/working_papers/w14992/w14992.pdf",
-      "version_read": "NBER 14992, May 2009; earlier U.S.-spelled title International Trade and Labor Income Risk in the United States",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 14992, May 2009; earlier U.S.-spelled title International Trade and Labor Income Risk in the United States",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–6",
         "selected_substantive_results_pdf_pages": "22–23",
         "complete_conclusion_pdf_pages": "27–28"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2659,16 +2365,14 @@
       "doi": null,
       "publication_url": "https://www.nber.org/papers/w21760",
       "text_url": "https://www.nber.org/system/files/working_papers/w21760/w21760.pdf",
-      "version_read": "NBER 21760, revised August 2018",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 21760, revised August 2018",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "39–40",
         "complete_conclusion_pdf_pages": "47"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2679,16 +2383,14 @@
       "doi": "10.1093/restud/rdq038",
       "publication_url": "https://doi.org/10.1093/restud/rdq038",
       "text_url": "https://www.nber.org/system/files/working_papers/w14884/w14884.pdf",
-      "version_read": "NBER 14884, revised June 2009",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 14884, revised June 2009",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–7",
         "selected_substantive_results_pdf_pages": "26–27, 33 (discussion)",
         "complete_conclusion_pdf_pages": "33–35"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     },
     {
       "journal_group": "ReStud",
@@ -2699,16 +2401,14 @@
       "doi": "10.1093/restud/rdy026",
       "publication_url": "https://doi.org/10.1093/restud/rdy026",
       "text_url": "https://www.nber.org/system/files/working_papers/w23020/w23020.pdf",
-      "version_read": "NBER 23020, January 2017",
       "genre": "research article",
-      "sections_read": {
+      "reference_version": "NBER 23020, January 2017",
+      "reading_locations": {
         "abstract_pdf_pages": "2",
         "complete_introduction_pdf_pages": "3–9",
         "selected_substantive_results_pdf_pages": "18–19",
         "complete_conclusion_pdf_pages": "29–31 (policy implications and conclusion)"
-      },
-      "designated_sections_complete": true,
-      "entire_article_claimed": false
+      }
     }
   ]
 }
