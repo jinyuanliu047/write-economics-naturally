@@ -57,3 +57,7 @@ git clone https://github.com/jinyuanliu047/write-economics-naturally.git ~/.code
 ## 试用反馈
 
 可以用 `TRY_IT.md` 比较启用前后的同一段改写。反馈时最有用的信息是：哪一句更流畅、哪处改变了研究含义、遗漏了什么比较对象，以及是否出现了新的套话。请勿在反馈中附上不能公开的原始数据。
+
+## 参与改进
+
+欢迎通过 [Issues](https://github.com/jinyuanliu047/write-economics-naturally/issues) 提出反馈，或提交 Pull Request。主分支由维护者审核和合并；请参阅 [贡献说明](CONTRIBUTING.md)。
