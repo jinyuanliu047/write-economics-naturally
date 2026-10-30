@@ -16,6 +16,14 @@ Useful distinctions:
 
 These are choices tied to the evidence, not a mandatory verb list.
 
+## Make the authors' research action visible
+
+An introduction should explain an inquiry. After establishing the setting and why the question matters, show what we do with the evidence and why that action answers the question. “We construct” identifies a contribution to measurement. “We compare” identifies the empirical comparison. “We find” states the result of that comparison. These subjects give the reader an account of the research rather than a succession of facts attributed to datasets.
+
+Do not enforce a quota for “we.” A historical institution should remain the subject of a sentence about what it did. A table can be the subject when a result needs its reference. But variation in sentence openings is secondary to making the authors' reasoning clear. Several purposeful “we” sentences can flow better than alternating mechanically among “the data,” “the estimates,” and “the analysis.”
+
+Separate contributions by the questions they answer. For each paragraph, identify the relevant literature, what it leaves unresolved, and the additional comparison, evidence, or result supplied by the paper. If two paragraphs can exchange their final sentences without changing the argument, their boundaries probably need work. Preserve the actual contribution when consolidating or distinguishing them; do not invent a new identification claim to obtain three items.
+
 ## Given information comes before the new step
 
 A reader should not have to reconstruct the previous sentence to interpret “this,” “these,” “it,” or “the pattern.” After several datasets or coefficients, repeat the particular noun. After one clearly stated comparison, “this difference” can be economical.
@@ -28,7 +36,7 @@ Use the end of one paragraph to create the question answered by the next. If add
 
 Do not impose an arbitrary maximum sentence length. A sentence with two linked clauses may explain a conditional relationship better than three disconnected fragments. Follow a dense explanation with a short sentence that gives its implication. Keep one clear main action; avoid nested appositives and long strings of comma clauses.
 
-Do not impose “We” on every sentence. “We compare” is useful when introducing a research choice. “Table 2 shows” is useful when a particular result advances the argument. “The estimate falls from ... to ...” is useful when the reader needs to assess sensitivity. “Families ...” is useful when explaining behavior. Variety comes from the argument, not from swapping synonyms.
+Use “we” freely for the authors' research choices without imposing it on every sentence. “We compare” is useful when introducing a research choice. “Table 2 shows” is useful when a particular result advances the argument. “The estimate falls from ... to ...” is useful when the reader needs to assess sensitivity. “Families ...” is useful when explaining behavior. Variety comes from the argument, not from swapping synonyms.
 
 Follow the author's punctuation and vocabulary preferences. Avoid inflated wording and repeatedly interrupted sentences. Preserve technical terms that add precision, but explain them in place. Do not replace an established term with an unfamiliar synonym for elegance.
 

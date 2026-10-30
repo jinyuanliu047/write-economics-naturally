@@ -73,3 +73,11 @@ Before: “The estimate is not significant, so there is no effect.”
 After: “The confidence interval includes both a small decline and a meaningful increase. The estimate is too imprecise to distinguish between them.”
 
 A wide interval is different from a precise estimate near zero. Neither should be concealed or converted into a more confident claim through prose.
+
+## Keep the research action visible
+
+Before: “The data combine school records and household surveys. Variation in reform timing permits an analysis of enrollment.”
+
+After: “We ask how families responded to the reform. We link school records to household surveys and compare enrollment in districts reached earlier and later.”
+
+The revision names the authors' question, data work, and comparison. The institutional background must establish what the reform changed and why timing is informative before the paragraph makes a causal claim. Varying sentence subjects is useful only when it helps this explanation.
